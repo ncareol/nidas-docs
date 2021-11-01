@@ -1,0 +1,4 @@
+<map id="nidas::core::SampleTag" name="nidas::core::SampleTag">
+<area shape="rect" id="node1" title="Class describing a group of variables that are sampled and handled together." alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node2" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="10,5,159,32"/>
+</map>

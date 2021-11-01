@@ -1,0 +1,5 @@
+<map id="nidas::core::McSocket::MyMcSocket" name="nidas::core::McSocket::MyMcSocket">
+<area shape="rect" id="node1" title=" " alt="" coords="5,200,157,241"/>
+<area shape="rect" id="node2" href="$df/de4/classnidas_1_1util_1_1McSocket.html" title=" " alt="" coords="6,109,157,151"/>
+<area shape="rect" id="node3" href="$df/de4/classnidas_1_1util_1_1McSocket.html" title="A McSocket provides a way to establish a TCP stream socket connection, or a pair of UDP datagram sock..." alt="" coords="9,5,153,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nidas::core::ServerSocket" name="nidas::core::ServerSocket">
+<area shape="rect" id="node1" title="Implementation of an IOChannel, over a ServerSocket." alt="" coords="5,155,177,181"/>
+<area shape="rect" id="node2" href="$d6/d8a/classnidas_1_1core_1_1IOChannel.html" title="A channel for Input or Output of data." alt="" coords="13,80,169,107"/>
+<area shape="rect" id="node3" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="17,5,166,32"/>
+</map>

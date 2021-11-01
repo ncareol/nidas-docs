@@ -1,0 +1,7 @@
+<map id="nidas::core::DSMService" name="nidas::core::DSMService">
+<area shape="rect" id="node1" title="Base class for a service, as built from a &lt;service&gt; XML tag." alt="" coords="147,80,316,107"/>
+<area shape="rect" id="node3" href="$df/d05/classnidas_1_1dynld_1_1RawSampleService.html" title="A RawSampleService reads raw Samples from a socket connection and sends the samples to one or more Sa..." alt="" coords="5,155,220,181"/>
+<area shape="rect" id="node4" href="$d7/da8/classnidas_1_1dynld_1_1XMLConfigService.html" title=" " alt="" coords="245,155,455,181"/>
+<area shape="rect" id="node2" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="157,5,306,32"/>
+<area shape="rect" id="node5" href="$df/d2c/classnidas_1_1dynld_1_1XMLConfigAllService.html" title=" " alt="" coords="260,229,440,271"/>
+</map>

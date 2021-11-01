@@ -1,0 +1,4 @@
+<map id="nidas::core::GetClocks" name="nidas::core::GetClocks">
+<area shape="rect" id="node1" title="gets a list of current clock times for each broadcasting DSM." alt="" coords="30,80,186,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,211,32"/>
+</map>

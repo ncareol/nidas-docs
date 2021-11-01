@@ -1,0 +1,10 @@
+<map id="nidas::core::Resampler" name="nidas::core::Resampler">
+<area shape="rect" id="node1" title="Interface for a resampler, simply a SampleClient and a SampleSource." alt="" coords="232,123,388,149"/>
+<area shape="rect" id="node4" href="$db/d63/classnidas_1_1core_1_1NearestResampler.html" title="A simple, nearest&#45;point resampler, for generating merged samples from variables from one or more samp..." alt="" coords="436,5,639,32"/>
+<area shape="rect" id="node5" href="$da/d73/classnidas_1_1core_1_1NearestResamplerAtRate.html" title="A simple, nearest&#45;point resampler, for generating merged samples from variables from one or more samp..." alt="" coords="436,57,639,98"/>
+<area shape="rect" id="node6" href="$d9/dde/classnidas_1_1core_1_1SampleAverager.html" title=" " alt="" coords="443,123,631,149"/>
+<area shape="rect" id="node7" href="$d1/dcd/classnidas_1_1dynld_1_1StatisticsCruncher.html" title=" " alt="" coords="460,174,615,215"/>
+<area shape="rect" id="node8" href="$d9/dba/classnidas_1_1dynld_1_1raf_1_1SyncRecordSource.html" title=" " alt="" coords="470,239,605,281"/>
+<area shape="rect" id="node2" href="$dd/dab/classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples." alt="" coords="9,97,181,124"/>
+<area shape="rect" id="node3" href="$da/d1f/classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples." alt="" coords="5,148,184,175"/>
+</map>

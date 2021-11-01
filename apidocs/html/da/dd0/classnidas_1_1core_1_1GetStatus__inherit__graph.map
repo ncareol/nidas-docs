@@ -1,0 +1,4 @@
+<map id="nidas::core::GetStatus" name="nidas::core::GetStatus">
+<area shape="rect" id="node1" title="gets a list of current status reports for each broadcasting DSM." alt="" coords="31,80,185,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,211,32"/>
+</map>

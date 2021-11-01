@@ -1,0 +1,5 @@
+<map id="FileSim" name="FileSim">
+<area shape="rect" id="node1" title="Read serial records from a file and send them at a given rate or after a prompt." alt="" coords="55,155,122,181"/>
+<area shape="rect" id="node2" href="$db/d1c/classSensorSimulator.html" title="Base class for sensor simulators." alt="" coords="29,80,148,107"/>
+<area shape="rect" id="node3" href="$de/d02/classnidas_1_1core_1_1LooperClient.html" title="Interface of a client of Looper." alt="" coords="5,5,172,32"/>
+</map>

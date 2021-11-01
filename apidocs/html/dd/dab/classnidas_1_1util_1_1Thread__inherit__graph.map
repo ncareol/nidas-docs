@@ -1,0 +1,41 @@
+<map id="nidas::util::Thread" name="nidas::util::Thread">
+<area shape="rect" id="node1" title=" " alt="" coords="195,752,321,779"/>
+<area shape="rect" id="node3" href="$db/dfc/classDataWriter.html" title=" " alt="" coords="435,5,518,32"/>
+<area shape="rect" id="node4" href="$df/ddc/classModemLineMonitor.html" title=" " alt="" coords="411,56,543,83"/>
+<area shape="rect" id="node5" href="$d4/d31/classModemLineSetter.html" title=" " alt="" coords="415,107,539,133"/>
+<area shape="rect" id="node6" href="$d4/d9c/classPSI.html" title=" " alt="" coords="455,157,499,184"/>
+<area shape="rect" id="node7" href="$d8/d1a/classSender.html" title=" " alt="" coords="445,208,508,235"/>
+<area shape="rect" id="node8" href="$dd/dea/classTestSource.html" title=" " alt="" coords="433,259,521,285"/>
+<area shape="rect" id="node9" href="$d8/d96/classnidas_1_1core_1_1DerivedDataReader.html" title="This class will read, parse and make available the parameters in the onboard real&#45;time broadcast of d..." alt="" coords="394,310,559,351"/>
+<area shape="rect" id="node10" href="$dc/dbf/classnidas_1_1core_1_1FsMountWorkerThread.html" title="Filesystem mounter/unmounter." alt="" coords="383,375,570,417"/>
+<area shape="rect" id="node11" href="$d0/da7/classnidas_1_1core_1_1Looper.html" title="Looper is a Thread that periodically loops, calling the LooperClient::looperNotify() method of Looper..." alt="" coords="410,441,543,468"/>
+<area shape="rect" id="node12" href="$d6/dca/classnidas_1_1core_1_1SampleOutputRequestThread.html" title="Interface of an output stream of samples." alt="" coords="388,493,565,534"/>
+<area shape="rect" id="node13" href="$dd/d74/classnidas_1_1core_1_1SampleThread.html" title="Interface for a Thread for buffering samples." alt="" coords="387,559,566,585"/>
+<area shape="rect" id="node16" href="$de/df5/classnidas_1_1core_1_1SensorHandler.html" title="SensorHandler implements a DSMSensor event loop." alt="" coords="387,609,567,636"/>
+<area shape="rect" id="node17" href="$dd/dc0/classnidas_1_1core_1_1SensorOpener.html" title="Thread which opens DSMSensors." alt="" coords="388,660,565,687"/>
+<area shape="rect" id="node18" href="$df/d42/classnidas_1_1core_1_1ServerSocket_1_1ConnectionThread.html" title=" " alt="" coords="391,711,563,753"/>
+<area shape="rect" id="node19" href="$d0/de0/classnidas_1_1core_1_1Socket_1_1ConnectionThread.html" title=" " alt="" coords="409,777,544,818"/>
+<area shape="rect" id="node20" href="$d8/da4/classnidas_1_1core_1_1StatusListener.html" title="thread that listens to multicast messages from all of the DSMs." alt="" coords="387,843,566,869"/>
+<area shape="rect" id="node21" href="$d6/d93/classnidas_1_1core_1_1StatusThread.html" title="A thread that runs periodically checking and multicasting the status of a DSMEngine." alt="" coords="391,893,563,920"/>
+<area shape="rect" id="node24" href="$d9/d29/classnidas_1_1core_1_1XmlRpcThread.html" title="A thread that provides XML&#45;based Remote Procedure Calls to web interfaces." alt="" coords="386,944,567,971"/>
+<area shape="rect" id="node27" href="$d5/d8a/classnidas_1_1dynld_1_1RawSampleService_1_1Worker.html" title="Worker thread that is run when a SampleInputConnection is established." alt="" coords="369,995,584,1037"/>
+<area shape="rect" id="node28" href="$d1/d5e/classnidas_1_1dynld_1_1UDPSampleOutput_1_1ConnectionMonitor.html" title="Thread that waits for connections to die." alt="" coords="371,1061,583,1102"/>
+<area shape="rect" id="node29" href="$de/de8/classnidas_1_1dynld_1_1UDPSampleOutput_1_1VariableListWorker.html" title="Worker thread that is run when a connection comes in, sending XML over a socket." alt="" coords="371,1126,583,1167"/>
+<area shape="rect" id="node30" href="$d7/da5/classnidas_1_1dynld_1_1UDPSampleOutput_1_1XMLSocketListener.html" title="Thread that waits for a connection on a tcp socket, starting a VariableListWorker on each connection." alt="" coords="371,1191,583,1233"/>
+<area shape="rect" id="node31" href="$d8/d39/classnidas_1_1dynld_1_1XMLConfigService_1_1Worker.html" title="Worker thread that is run when a connection comes in." alt="" coords="371,1257,582,1298"/>
+<area shape="rect" id="node32" href="$d8/d35/classnidas_1_1dynld_1_1raf_1_1SyncServer.html" title=" " alt="" coords="415,1322,538,1363"/>
+<area shape="rect" id="node33" href="$d0/d68/classnidas_1_1util_1_1DetachedThread.html" title="A Thread with a constructor that sets detached=true." alt="" coords="385,1388,568,1415"/>
+<area shape="rect" id="node37" href="$d7/d49/classnidas_1_1util_1_1McSocketListener.html" title="Class for listening on McSocket requests on a specific multicast address and UDP port number." alt="" coords="381,1439,572,1465"/>
+<area shape="rect" id="node38" href="$da/dbb/classnidas_1_1util_1_1McSocketMulticaster.html" title="Thread which is started by McSocket to multicast requests for connections." alt="" coords="373,1490,581,1531"/>
+<area shape="rect" id="node39" href="$d8/d69/classnidas_1_1util_1_1ThreadRunnable.html" title="The ThreadRunnable class implements a Thread which uses a Runnable target to supply the run() method." alt="" coords="386,1556,567,1583"/>
+<area shape="rect" id="node2" href="$d1/d5b/classnidas_1_1util_1_1Runnable.html" title=" " alt="" coords="5,752,147,779"/>
+<area shape="rect" id="node14" href="$dd/dea/classnidas_1_1core_1_1SampleBuffer.html" title="A SampleClient that buffers its received samples, using a pair of STL vectors, and then sends the buf..." alt="" coords="640,533,812,560"/>
+<area shape="rect" id="node15" href="$d4/d3f/classnidas_1_1core_1_1SampleSorter.html" title="A SampleClient that sorts its received samples, using an STL multiset, and then sends the sorted samp..." alt="" coords="639,584,813,611"/>
+<area shape="rect" id="node22" href="$d3/d2e/classnidas_1_1core_1_1DSMEngineStat.html" title="Thread which provides status in XML form from a dsm on a datagram socket, to be read by the status_li..." alt="" coords="632,843,820,869"/>
+<area shape="rect" id="node23" href="$d7/d47/classnidas_1_1core_1_1DSMServerStat.html" title="Thread which provides status from a dsm_server on a datagram socket." alt="" coords="633,893,819,920"/>
+<area shape="rect" id="node25" href="$d3/d94/classnidas_1_1core_1_1DSMEngineIntf.html" title="A thread that provides XML&#45;based Remote Procedure Calls to web interfaces from the DSMEngine." alt="" coords="635,944,817,971"/>
+<area shape="rect" id="node26" href="$d0/d3c/classnidas_1_1core_1_1DSMServerIntf.html" title="A thread that provides XML&#45;based Remote Procedure Calls to web interfaces from the DSMServer." alt="" coords="635,995,817,1021"/>
+<area shape="rect" id="node34" href="$db/d5e/classServerThread.html" title=" " alt="" coords="676,1337,776,1364"/>
+<area shape="rect" id="node35" href="$d1/d8b/classWriterThread.html" title=" " alt="" coords="678,1388,774,1415"/>
+<area shape="rect" id="node36" href="$d2/de8/classnidas_1_1util_1_1ThreadJoiner.html" title="In certain situations one needs to &quot;join oneself&quot;, which would be a deadlock." alt="" coords="645,1439,807,1465"/>
+</map>

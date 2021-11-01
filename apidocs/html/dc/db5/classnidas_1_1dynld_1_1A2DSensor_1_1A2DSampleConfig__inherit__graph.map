@@ -1,0 +1,5 @@
+<map id="nidas::dynld::A2DSensor::A2DSampleConfig" name="nidas::dynld::A2DSensor::A2DSampleConfig">
+<area shape="rect" id="node1" title="A2D configuration information that is sent to the A2D device module." alt="" coords="5,39,172,80"/>
+<area shape="rect" id="node2" href="$da/d45/classnidas_1_1dynld_1_1A2DSensor_1_1A2DBoxcarConfig.html" title="A2D configuration for box&#45;car averaging of A2D samples." alt="" coords="220,5,387,47"/>
+<area shape="rect" id="node3" href="$de/d78/classnidas_1_1dynld_1_1A2DSensor_1_1A2DTimeAvgConfig.html" title="A2D configuration for time&#45;based averaging of A2D samples." alt="" coords="220,71,387,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,162,211,189"/>
+<area shape="rect" id="node2" href="$d1/d50/classnidas_1_1core_1_1DSMEngineIntf_1_1DSMAction.html" title="Send a command to a DSMEngine." alt="" coords="265,5,447,47"/>
+<area shape="rect" id="node3" href="$dc/d33/classnidas_1_1core_1_1DSMEngineIntf_1_1SensorAction.html" title="Invoke an executeXmlRpc() method on a DSMSensor." alt="" coords="265,71,447,112"/>
+<area shape="rect" id="node4" href="$de/df9/classnidas_1_1core_1_1GetAdsFileName.html" title="gets the name of the current .ads file" alt="" coords="259,137,453,163"/>
+<area shape="rect" id="node5" href="$d7/def/classnidas_1_1core_1_1GetClocks.html" title="gets a list of current clock times for each broadcasting DSM." alt="" coords="278,187,434,214"/>
+<area shape="rect" id="node6" href="$df/d12/classnidas_1_1core_1_1GetDsmList.html" title="gets a list of DSMs and their locations from the configuration" alt="" coords="274,238,438,265"/>
+<area shape="rect" id="node7" href="$d3/d48/classnidas_1_1core_1_1GetStatus.html" title="gets a list of current status reports for each broadcasting DSM." alt="" coords="279,289,433,315"/>
+</map>

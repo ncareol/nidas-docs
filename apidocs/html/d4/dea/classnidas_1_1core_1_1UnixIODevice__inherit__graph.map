@@ -1,0 +1,5 @@
+<map id="nidas::core::UnixIODevice" name="nidas::core::UnixIODevice">
+<area shape="rect" id="node1" title="A basic Unix I/O device, such as a named pipe, or a watched file." alt="" coords="21,80,197,107"/>
+<area shape="rect" id="node3" href="$de/d0d/classnidas_1_1core_1_1SerialPortIODevice.html" title="A serial port." alt="" coords="5,155,212,181"/>
+<area shape="rect" id="node2" href="$d2/da8/classnidas_1_1core_1_1IODevice.html" title="An interface to an IO device." alt="" coords="34,5,183,32"/>
+</map>

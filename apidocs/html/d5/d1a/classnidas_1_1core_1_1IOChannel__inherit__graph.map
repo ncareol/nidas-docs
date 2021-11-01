@@ -1,0 +1,17 @@
+<map id="nidas::core::IOChannel" name="nidas::core::IOChannel">
+<area shape="rect" id="node1" title="A channel for Input or Output of data." alt="" coords="203,208,359,235"/>
+<area shape="rect" id="node3" href="$d1/d6f/classnidas_1_1core_1_1DatagramSocket.html" title="Implementation of an IOChannel, over a DatagramSocket." alt="" coords="407,5,597,32"/>
+<area shape="rect" id="node4" href="$d8/de7/classnidas_1_1core_1_1FileSet.html" title="Implementation of an IOChannel using an nidas::util::FileSet." alt="" coords="435,56,569,83"/>
+<area shape="rect" id="node6" href="$d8/de9/classnidas_1_1core_1_1McSocket.html" title="Implementation of an IOChannel, using nidas::util::McSocket&lt;nidas::util::Socket&gt; to establish a TCP c..." alt="" coords="426,107,578,133"/>
+<area shape="rect" id="node7" href="$dd/d50/classnidas_1_1core_1_1McSocketUDP.html" title="Implementation of an IOChannel, using nidas::util::McSocket&lt;nidas::util::DatagramSocket&gt; to establish..." alt="" coords="411,157,593,184"/>
+<area shape="rect" id="node9" href="$d9/d4b/classnidas_1_1core_1_1ServerSocket.html" title="Implementation of an IOChannel, over a ServerSocket." alt="" coords="416,208,588,235"/>
+<area shape="rect" id="node10" href="$da/da6/classnidas_1_1core_1_1Socket.html" title="Implementation of an IOChannel, over a Socket." alt="" coords="435,259,569,285"/>
+<area shape="rect" id="node11" href="$dd/df5/classnidas_1_1core_1_1UnixIOChannel.html" title="Simple implementation of an IOChannel, over an opened file descriptor." alt="" coords="411,309,593,336"/>
+<area shape="rect" id="node12" href="$d7/d6e/classnidas_1_1dynld_1_1isff_1_1GOESXmtr.html" title="Support for a GOES transmitter, implemented as an IOChannel." alt="" coords="443,361,561,402"/>
+<area shape="rect" id="node15" href="$d7/d06/classnidas_1_1dynld_1_1psql_1_1PSQLChannel.html" title=" " alt="" coords="440,426,564,467"/>
+<area shape="rect" id="node2" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="5,208,155,235"/>
+<area shape="rect" id="node5" href="$d4/d5a/classnidas_1_1dynld_1_1FileSet.html" title="Dynamically loadable nidas::core::FileSet." alt="" coords="682,56,823,83"/>
+<area shape="rect" id="node8" href="$d7/d60/classnidas_1_1core_1_1MultipleUDPSockets.html" title=" " alt="" coords="645,157,860,184"/>
+<area shape="rect" id="node13" href="$d7/d7c/classnidas_1_1dynld_1_1isff_1_1SE__GOESXmtr.html" title="An IOChannel implementation for a Signal Engineering GOES transmitter." alt="" coords="693,329,813,370"/>
+<area shape="rect" id="node14" href="$db/dcb/classnidas_1_1dynld_1_1isff_1_1SimGOESXmtr.html" title="An IOChannel implementation to simulate a GOES transmitter." alt="" coords="693,394,812,435"/>
+</map>

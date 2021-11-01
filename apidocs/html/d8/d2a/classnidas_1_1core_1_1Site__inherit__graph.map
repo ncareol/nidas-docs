@@ -1,0 +1,6 @@
+<map id="nidas::core::Site" name="nidas::core::Site">
+<area shape="rect" id="node1" title="A measurement site." alt="" coords="77,80,195,107"/>
+<area shape="rect" id="node3" href="$d6/dca/classnidas_1_1dynld_1_1isff_1_1GroundStation.html" title="GroundStation is a sub&#45;class of a measurement Site." alt="" coords="5,155,123,196"/>
+<area shape="rect" id="node4" href="$d1/dad/classnidas_1_1dynld_1_1raf_1_1Aircraft.html" title="Aircraft is a sub&#45;class of a measurement Site." alt="" coords="147,155,269,196"/>
+<area shape="rect" id="node2" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="61,5,211,32"/>
+</map>

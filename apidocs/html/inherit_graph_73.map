@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/dd7/classnidas_1_1core_1_1CalFileHandler.html" title="This is the interface for handling CalFile records as they are read by a VariableConverter." alt="" coords="5,13,184,39"/>
+<area shape="rect" id="node2" href="$d7/d85/classnidas_1_1core_1_1CalFileHandlerFunction.html" title="A template subclass which implements the CalFileHandler interface by calling a function object." alt="" coords="232,5,411,47"/>
+</map>

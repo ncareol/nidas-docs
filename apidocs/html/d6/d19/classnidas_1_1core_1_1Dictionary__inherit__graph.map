@@ -1,0 +1,7 @@
+<map id="nidas::core::Dictionary" name="nidas::core::Dictionary">
+<area shape="rect" id="node1" title="Interface for a Dictionary class, which can return a string value for a string token name." alt="" coords="5,111,160,138"/>
+<area shape="rect" id="node2" href="$d3/d06/classnidas_1_1core_1_1DSMConfig_1_1MyDictionary.html" title=" " alt="" coords="209,5,372,47"/>
+<area shape="rect" id="node3" href="$dd/d3c/classnidas_1_1core_1_1DSMSensor_1_1MyDictionary.html" title=" " alt="" coords="208,71,373,112"/>
+<area shape="rect" id="node4" href="$d9/d6f/classnidas_1_1core_1_1Project_1_1MyDictionary.html" title=" " alt="" coords="223,136,358,177"/>
+<area shape="rect" id="node5" href="$dc/d2b/classnidas_1_1core_1_1Site_1_1MyDictionary.html" title=" " alt="" coords="228,201,353,243"/>
+</map>

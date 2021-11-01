@@ -1,0 +1,4 @@
+<map id="nidas::core::SensorHandler::PolledDSMSensor" name="nidas::core::SensorHandler::PolledDSMSensor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,185,121"/>
+<area shape="rect" id="node2" href="$db/d7b/classnidas_1_1core_1_1Polled.html" title="Interface for objects with a file descriptor, providing a virtual method to be called when system cal..." alt="" coords="30,5,161,32"/>
+</map>

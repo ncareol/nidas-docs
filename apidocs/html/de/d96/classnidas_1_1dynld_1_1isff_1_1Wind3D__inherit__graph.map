@@ -1,0 +1,13 @@
+<map id="nidas::dynld::isff::Wind3D" name="nidas::dynld::isff::Wind3D">
+<area shape="rect" id="node1" title="A class for performing the common processes on wind data from a 3D sonic anemometer." alt="" coords="901,71,1019,112"/>
+<area shape="rect" id="node8" href="$d0/dd4/classnidas_1_1dynld_1_1isff_1_1ATIK__Sonic.html" title="A class for making sense of data from an ATIK 3D sonic anemometer." alt="" coords="1077,5,1194,47"/>
+<area shape="rect" id="node9" href="$da/d27/classnidas_1_1dynld_1_1isff_1_1CSAT3__Sonic.html" title="A class for making sense of data from a Campbell Scientific Inc CSAT3 3D sonic anemometer." alt="" coords="1077,71,1194,112"/>
+<area shape="rect" id="node11" href="$d5/d8d/classnidas_1_1dynld_1_1isff_1_1SonicAnemometer.html" title="3D sonic anemometer class." alt="" coords="1067,136,1204,177"/>
+<area shape="rect" id="node2" href="$d6/d96/classnidas_1_1core_1_1SerialSensor.html" title="Support for a sensor that is sending packets on a TCP socket, a UDP socket, a Bluetooth RF Comm socke..." alt="" coords="685,78,853,105"/>
+<area shape="rect" id="node3" href="$de/d43/classnidas_1_1core_1_1CharacterSensor.html" title="Implementation of support for a sensor which generates character output." alt="" coords="445,78,637,105"/>
+<area shape="rect" id="node4" href="$d2/db4/classnidas_1_1core_1_1DSMSensor.html" title="DSMSensor provides the basic support for reading, processing and distributing samples from a sensor a..." alt="" coords="232,78,397,105"/>
+<area shape="rect" id="node5" href="$da/d1f/classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples." alt="" coords="5,27,184,54"/>
+<area shape="rect" id="node6" href="$dd/dab/classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples." alt="" coords="9,78,181,105"/>
+<area shape="rect" id="node7" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="20,129,169,155"/>
+<area shape="rect" id="node10" href="$d6/d6a/classnidas_1_1dynld_1_1isff_1_1CSI__IRGA__Sonic.html" title="A class for making sense of data from a Campbell Scientific IRGASON integrated Gas Analyzer and 3D so..." alt="" coords="1252,71,1383,112"/>
+</map>

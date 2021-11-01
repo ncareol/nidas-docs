@@ -1,0 +1,4 @@
+<map id="nidas::util::DatagramSocket" name="nidas::util::DatagramSocket">
+<area shape="rect" id="node1" title="A socket for sending or receiving datagrams, either unicast, broadcast or multicast." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$d5/d5f/classnidas_1_1util_1_1MulticastSocket.html" title="A datagram socket to be used for multicasts." alt="" coords="7,80,186,107"/>
+</map>

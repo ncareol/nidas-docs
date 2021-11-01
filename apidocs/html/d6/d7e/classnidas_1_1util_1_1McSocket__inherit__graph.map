@@ -1,0 +1,9 @@
+<map id="nidas::util::McSocket&lt; SocketT &gt;" name="nidas::util::McSocket&lt; SocketT &gt;">
+<area shape="rect" id="node1" title="A McSocket provides a way to establish a TCP stream socket connection, or a pair of UDP datagram sock..." alt="" coords="5,71,149,112"/>
+<area shape="rect" id="node2" href="$df/de4/classnidas_1_1util_1_1McSocket.html" title=" " alt="" coords="418,5,562,47"/>
+<area shape="rect" id="node3" href="$df/de4/classnidas_1_1util_1_1McSocket.html" title=" " alt="" coords="387,71,593,112"/>
+<area shape="rect" id="node5" href="$df/de4/classnidas_1_1util_1_1McSocket.html" title=" " alt="" coords="415,136,565,177"/>
+<area shape="rect" id="node4" href="$df/dae/classnidas_1_1core_1_1McSocketUDP_1_1MyMcSocket.html" title=" " alt="" coords="646,71,827,112"/>
+<area shape="rect" id="node6" href="$d8/d0b/classnidas_1_1core_1_1McSocket_1_1MyMcSocket.html" title=" " alt="" coords="661,136,813,177"/>
+<area shape="rect" id="node7" href="$d0/dfe/classnidas_1_1core_1_1XMLConfigInput.html" title=" " alt="" coords="643,202,831,229"/>
+</map>

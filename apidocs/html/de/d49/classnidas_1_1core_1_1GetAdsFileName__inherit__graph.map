@@ -1,0 +1,4 @@
+<map id="nidas::core::GetAdsFileName" name="nidas::core::GetAdsFileName">
+<area shape="rect" id="node1" title="gets the name of the current .ads file" alt="" coords="11,80,205,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,211,32"/>
+</map>

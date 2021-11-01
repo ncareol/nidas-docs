@@ -1,0 +1,5 @@
+<map id="nidas::core::NidasAppException" name="nidas::core::NidasAppException">
+<area shape="rect" id="node1" title="The NidasApp class throws a NidasAppException when command&#45;line options do not parse." alt="" coords="5,155,213,181"/>
+<area shape="rect" id="node2" href="$d4/d90/classnidas_1_1util_1_1Exception.html" title=" " alt="" coords="38,80,181,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="58,5,161,32"/>
+</map>

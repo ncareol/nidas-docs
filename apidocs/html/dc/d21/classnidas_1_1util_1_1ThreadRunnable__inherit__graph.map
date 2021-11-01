@@ -1,0 +1,5 @@
+<map id="nidas::util::ThreadRunnable" name="nidas::util::ThreadRunnable">
+<area shape="rect" id="node1" title="The ThreadRunnable class implements a Thread which uses a Runnable target to supply the run() method." alt="" coords="5,155,187,181"/>
+<area shape="rect" id="node2" href="$dc/dd3/classnidas_1_1util_1_1Thread.html" title=" " alt="" coords="33,80,159,107"/>
+<area shape="rect" id="node3" href="$d1/d5b/classnidas_1_1util_1_1Runnable.html" title=" " alt="" coords="25,5,167,32"/>
+</map>

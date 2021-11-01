@@ -1,0 +1,5 @@
+<map id="nidas::core::DatagramSocket" name="nidas::core::DatagramSocket">
+<area shape="rect" id="node1" title="Implementation of an IOChannel, over a DatagramSocket." alt="" coords="5,155,196,181"/>
+<area shape="rect" id="node2" href="$d6/d8a/classnidas_1_1core_1_1IOChannel.html" title="A channel for Input or Output of data." alt="" coords="23,80,179,107"/>
+<area shape="rect" id="node3" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="26,5,175,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="nidas::core::SamplePipeline" name="nidas::core::SamplePipeline">
+<area shape="rect" id="node1" title="SamplePipeline sorts samples that are coming from one or more inputs." alt="" coords="5,80,189,107"/>
+<area shape="rect" id="node2" href="$da/d1f/classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples." alt="" coords="8,5,187,32"/>
+</map>

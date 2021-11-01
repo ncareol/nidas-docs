@@ -1,0 +1,4 @@
+<map id="nidas::core::NidasAppInputFilesArg" name="nidas::core::NidasAppInputFilesArg">
+<area shape="rect" id="node1" title="Extend NidasAppArg so the default input specifier and port can be customized, which in turn updates t..." alt="" coords="5,80,185,121"/>
+<area shape="rect" id="node2" href="$d5/d2f/classnidas_1_1core_1_1NidasAppArg.html" title="A NidasAppArg is command&#45;line argument which can be handled by NidasApp." alt="" coords="10,5,181,32"/>
+</map>

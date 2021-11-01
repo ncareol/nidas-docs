@@ -1,0 +1,5 @@
+<map id="nidas::core::SensorHandler" name="nidas::core::SensorHandler">
+<area shape="rect" id="node1" title="SensorHandler implements a DSMSensor event loop." alt="" coords="5,155,185,181"/>
+<area shape="rect" id="node2" href="$dc/dd3/classnidas_1_1util_1_1Thread.html" title=" " alt="" coords="32,80,159,107"/>
+<area shape="rect" id="node3" href="$d1/d5b/classnidas_1_1util_1_1Runnable.html" title=" " alt="" coords="25,5,166,32"/>
+</map>

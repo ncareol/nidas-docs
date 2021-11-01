@@ -1,0 +1,4 @@
+<map id="nidas::util::Inet4SocketAddress" name="nidas::util::Inet4SocketAddress">
+<area shape="rect" id="node1" title="A IP version 4 socket address, containing a host address, and a port number." alt="" coords="15,80,170,121"/>
+<area shape="rect" id="node2" href="$d8/dd4/classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address." alt="" coords="5,5,180,32"/>
+</map>

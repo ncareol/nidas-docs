@@ -1,0 +1,8 @@
+<map id="nidas::core::VariableConverter" name="nidas::core::VariableConverter">
+<area shape="rect" id="node1" title=" " alt="" coords="139,80,337,107"/>
+<area shape="rect" id="node3" href="$d2/d95/classnidas_1_1core_1_1Linear.html" title="Why isn&#39;t this a sublcass of Polynomial which sets MAX_NUM_COEFFS to 2?" alt="" coords="5,162,135,189"/>
+<area shape="rect" id="node4" href="$d2/d55/classnidas_1_1core_1_1Polynomial.html" title=" " alt="" coords="159,162,317,189"/>
+<area shape="rect" id="node6" href="$d4/d55/classnidas_1_1dynld_1_1isff_1_1CS__Krypton.html" title="A data converter from voltage to water vapor density in gm/m^3 for a Campbell Scientfic krypton hygro..." alt="" coords="342,155,459,196"/>
+<area shape="rect" id="node2" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="163,5,313,32"/>
+<area shape="rect" id="node5" href="$dd/df0/classnidas_1_1dynld_1_1isff_1_1RebsLinear.html" title="A linear converter useful for REBS net radiometers, which have two sets of linear coefficients,..." alt="" coords="179,244,297,285"/>
+</map>

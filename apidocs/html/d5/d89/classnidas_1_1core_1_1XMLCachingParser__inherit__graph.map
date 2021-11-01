@@ -1,0 +1,4 @@
+<map id="nidas::core::XMLCachingParser" name="nidas::core::XMLCachingParser">
+<area shape="rect" id="node1" title="Derived class of XMLParser that keeps its DOMDocuments when parsing an XML disk file,..." alt="" coords="5,80,212,107"/>
+<area shape="rect" id="node2" href="$dc/da7/classnidas_1_1core_1_1XMLParser.html" title="Wrapper class around xerces&#45;c DOMBuilder to parse XML." alt="" coords="29,5,189,32"/>
+</map>

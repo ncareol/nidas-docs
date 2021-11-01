@@ -1,0 +1,6 @@
+<map id="nidas::dynld::raf::Extract2D" name="nidas::dynld::raf::Extract2D">
+<area shape="rect" id="node1" title=" " alt="" coords="52,80,175,121"/>
+<area shape="rect" id="node3" href="$de/d34/classExtractDMT.html" title=" " alt="" coords="5,169,99,196"/>
+<area shape="rect" id="node4" href="$df/deb/classExtractFast2D.html" title=" " alt="" coords="123,169,229,196"/>
+<area shape="rect" id="node2" href="$df/d08/classnidas_1_1core_1_1HeaderSource.html" title="An interface for sending a SampleHeader to a SampleOutput." alt="" coords="25,5,202,32"/>
+</map>

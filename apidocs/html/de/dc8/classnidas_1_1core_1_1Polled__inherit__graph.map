@@ -1,0 +1,7 @@
+<map id="nidas::core::Polled" name="nidas::core::Polled">
+<area shape="rect" id="node1" title="Interface for objects with a file descriptor, providing a virtual method to be called when system cal..." alt="" coords="5,111,136,138"/>
+<area shape="rect" id="node2" href="$de/d1b/classnidas_1_1core_1_1RemoteSerialConnection.html" title=" " alt="" coords="188,5,360,47"/>
+<area shape="rect" id="node3" href="$d3/dd4/classnidas_1_1core_1_1RemoteSerialListener.html" title=" " alt="" coords="188,71,360,112"/>
+<area shape="rect" id="node4" href="$df/d2c/classnidas_1_1core_1_1SensorHandler_1_1NotifyPipe.html" title=" " alt="" coords="184,136,364,177"/>
+<area shape="rect" id="node5" href="$d5/d34/classnidas_1_1core_1_1SensorHandler_1_1PolledDSMSensor.html" title=" " alt="" coords="184,201,364,243"/>
+</map>

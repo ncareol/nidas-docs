@@ -1,0 +1,8 @@
+<map id="nidas::util::DetachedThread" name="nidas::util::DetachedThread">
+<area shape="rect" id="node1" title="A Thread with a constructor that sets detached=true." alt="" coords="87,155,269,181"/>
+<area shape="rect" id="node4" href="$db/d5e/classServerThread.html" title=" " alt="" coords="5,229,105,256"/>
+<area shape="rect" id="node5" href="$d1/d8b/classWriterThread.html" title=" " alt="" coords="130,229,226,256"/>
+<area shape="rect" id="node6" href="$d2/de8/classnidas_1_1util_1_1ThreadJoiner.html" title="In certain situations one needs to &quot;join oneself&quot;, which would be a deadlock." alt="" coords="251,229,412,256"/>
+<area shape="rect" id="node2" href="$dc/dd3/classnidas_1_1util_1_1Thread.html" title=" " alt="" coords="115,80,241,107"/>
+<area shape="rect" id="node3" href="$d1/d5b/classnidas_1_1util_1_1Runnable.html" title=" " alt="" coords="107,5,249,32"/>
+</map>

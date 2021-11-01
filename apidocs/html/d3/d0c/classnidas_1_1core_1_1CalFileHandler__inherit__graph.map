@@ -1,0 +1,4 @@
+<map id="nidas::core::CalFileHandler" name="nidas::core::CalFileHandler">
+<area shape="rect" id="node1" title="This is the interface for handling CalFile records as they are read by a VariableConverter." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$d7/d85/classnidas_1_1core_1_1CalFileHandlerFunction.html" title="A template subclass which implements the CalFileHandler interface by calling a function object." alt="" coords="5,80,184,121"/>
+</map>

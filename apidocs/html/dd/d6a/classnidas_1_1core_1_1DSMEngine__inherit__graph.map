@@ -1,0 +1,4 @@
+<map id="nidas::core::DSMEngine" name="nidas::core::DSMEngine">
+<area shape="rect" id="node1" title="Application for running the NIDAS data acquistion process." alt="" coords="25,95,189,121"/>
+<area shape="rect" id="node2" href="$da/d42/classnidas_1_1core_1_1SampleConnectionRequester.html" title="Interface for an object that requests connections SampleOutputs." alt="" coords="5,5,209,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="nidas::dynld::XMLConfigService" name="nidas::dynld::XMLConfigService">
+<area shape="rect" id="node1" title=" " alt="" coords="93,155,303,181"/>
+<area shape="rect" id="node5" href="$df/d2c/classnidas_1_1dynld_1_1XMLConfigAllService.html" title=" " alt="" coords="108,229,288,271"/>
+<area shape="rect" id="node2" href="$d6/d95/classnidas_1_1core_1_1DSMService.html" title="Base class for a service, as built from a &lt;service&gt; XML tag." alt="" coords="5,80,175,107"/>
+<area shape="rect" id="node3" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="15,5,165,32"/>
+<area shape="rect" id="node4" href="$d9/d71/classnidas_1_1core_1_1IOChannelRequester.html" title="Interface for an object that requests connections to Inputs or Outputs." alt="" coords="199,80,413,107"/>
+</map>

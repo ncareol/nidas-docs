@@ -1,0 +1,9 @@
+<map id="nidas::core::IODevice" name="nidas::core::IODevice">
+<area shape="rect" id="node1" title="An interface to an IO device." alt="" coords="5,71,155,98"/>
+<area shape="rect" id="node2" href="$d7/dbe/classnidas_1_1core_1_1ServerSocketIODevice.html" title="An IODevice supporting a TCP or UNIX server socket." alt="" coords="211,5,383,47"/>
+<area shape="rect" id="node3" href="$dd/d34/classnidas_1_1core_1_1SocketIODevice.html" title="A IODevice providing support for UDP and TCP sockets." alt="" coords="203,71,392,98"/>
+<area shape="rect" id="node6" href="$d8/d2b/classnidas_1_1core_1_1UnixIODevice.html" title="A basic Unix I/O device, such as a named pipe, or a watched file." alt="" coords="209,122,385,149"/>
+<area shape="rect" id="node4" href="$d2/d5f/classnidas_1_1core_1_1TCPSocketIODevice.html" title="An IODevice consisting of a TCP socket." alt="" coords="441,21,657,47"/>
+<area shape="rect" id="node5" href="$dd/d92/classnidas_1_1core_1_1UDPSocketIODevice.html" title="An IODevice consisting of an UDP socket." alt="" coords="440,71,659,98"/>
+<area shape="rect" id="node7" href="$de/d0d/classnidas_1_1core_1_1SerialPortIODevice.html" title="A serial port." alt="" coords="446,122,653,149"/>
+</map>

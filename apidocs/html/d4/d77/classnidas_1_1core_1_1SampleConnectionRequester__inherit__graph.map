@@ -1,0 +1,13 @@
+<map id="nidas::core::SampleConnectionRequester" name="nidas::core::SampleConnectionRequester">
+<area shape="rect" id="node1" title="Interface for an object that requests connections SampleOutputs." alt="" coords="5,141,209,182"/>
+<area shape="rect" id="node2" href="$db/dcb/classnidas_1_1core_1_1DSMEngine.html" title="Application for running the NIDAS data acquistion process." alt="" coords="281,97,445,124"/>
+<area shape="rect" id="node3" href="$d0/d01/classnidas_1_1core_1_1SampleIOProcessor.html" title="Interface of a processor of samples." alt="" coords="257,148,468,175"/>
+<area shape="rect" id="node11" href="$d8/d35/classnidas_1_1dynld_1_1raf_1_1SyncServer.html" title=" " alt="" coords="301,199,424,241"/>
+<area shape="rect" id="node4" href="$d5/d80/classnidas_1_1core_1_1SampleArchiver.html" title=" " alt="" coords="525,5,710,32"/>
+<area shape="rect" id="node6" href="$d7/df9/classnidas_1_1dynld_1_1SampleProcessor.html" title=" " alt="" coords="516,56,719,83"/>
+<area shape="rect" id="node7" href="$d3/d15/classnidas_1_1dynld_1_1StatisticsProcessor.html" title="Interface of a processor of samples." alt="" coords="540,107,695,149"/>
+<area shape="rect" id="node8" href="$df/d46/classnidas_1_1dynld_1_1psql_1_1PSQLProcessor.html" title=" " alt="" coords="555,173,679,214"/>
+<area shape="rect" id="node9" href="$d7/da2/classnidas_1_1dynld_1_1raf_1_1CVIProcessor.html" title="Processor to support Counter&#45;flow Virtual Impactor." alt="" coords="556,238,679,279"/>
+<area shape="rect" id="node10" href="$d5/d52/classnidas_1_1dynld_1_1raf_1_1SyncRecordGenerator.html" title=" " alt="" coords="542,303,693,345"/>
+<area shape="rect" id="node5" href="$d8/d5e/classnidas_1_1dynld_1_1SampleArchiver.html" title=" " alt="" coords="767,5,957,32"/>
+</map>

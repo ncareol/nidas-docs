@@ -1,0 +1,5 @@
+<map id="nidas::core::McSocket" name="nidas::core::McSocket">
+<area shape="rect" id="node1" title="Implementation of an IOChannel, using nidas::util::McSocket&lt;nidas::util::Socket&gt; to establish a TCP c..." alt="" coords="7,155,159,181"/>
+<area shape="rect" id="node2" href="$d6/d8a/classnidas_1_1core_1_1IOChannel.html" title="A channel for Input or Output of data." alt="" coords="5,80,161,107"/>
+<area shape="rect" id="node3" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="9,5,158,32"/>
+</map>

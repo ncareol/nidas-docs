@@ -1,0 +1,10 @@
+<map id="nidas::core::HeaderSource" name="nidas::core::HeaderSource">
+<area shape="rect" id="node1" title="An interface for sending a SampleHeader to a SampleOutput." alt="" coords="5,107,183,133"/>
+<area shape="rect" id="node2" href="$d5/da0/classARLIngest.html" title=" " alt="" coords="264,5,348,32"/>
+<area shape="rect" id="node3" href="$d6/d5f/classNidsMerge.html" title=" " alt="" coords="263,56,349,83"/>
+<area shape="rect" id="node4" href="$d5/d65/classSensorExtract.html" title=" " alt="" coords="253,107,359,133"/>
+<area shape="rect" id="node5" href="$d6/dda/classnidas_1_1dynld_1_1raf_1_1Extract2D.html" title=" " alt="" coords="245,158,367,199"/>
+<area shape="rect" id="node8" href="$d5/d52/classnidas_1_1dynld_1_1raf_1_1SyncRecordGenerator.html" title=" " alt="" coords="231,223,381,265"/>
+<area shape="rect" id="node6" href="$de/d34/classExtractDMT.html" title=" " alt="" coords="436,140,529,167"/>
+<area shape="rect" id="node7" href="$df/deb/classExtractFast2D.html" title=" " alt="" coords="429,191,536,217"/>
+</map>

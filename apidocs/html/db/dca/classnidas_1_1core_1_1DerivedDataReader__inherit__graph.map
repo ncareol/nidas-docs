@@ -1,0 +1,5 @@
+<map id="nidas::core::DerivedDataReader" name="nidas::core::DerivedDataReader">
+<area shape="rect" id="node1" title="This class will read, parse and make available the parameters in the onboard real&#45;time broadcast of d..." alt="" coords="5,155,171,196"/>
+<area shape="rect" id="node2" href="$dc/dd3/classnidas_1_1util_1_1Thread.html" title=" " alt="" coords="25,80,151,107"/>
+<area shape="rect" id="node3" href="$d1/d5b/classnidas_1_1util_1_1Runnable.html" title=" " alt="" coords="17,5,159,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="nidas::core::MultipleUDPSockets" name="nidas::core::MultipleUDPSockets">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,220,256"/>
+<area shape="rect" id="node2" href="$dd/d50/classnidas_1_1core_1_1McSocketUDP.html" title="Implementation of an IOChannel, using nidas::util::McSocket&lt;nidas::util::DatagramSocket&gt; to establish..." alt="" coords="22,155,203,181"/>
+<area shape="rect" id="node3" href="$d6/d8a/classnidas_1_1core_1_1IOChannel.html" title="A channel for Input or Output of data." alt="" coords="35,80,191,107"/>
+<area shape="rect" id="node4" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="38,5,187,32"/>
+</map>

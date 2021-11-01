@@ -1,0 +1,4 @@
+<map id="nidas::core::DSMEngineIntf::DSMAction" name="nidas::core::DSMEngineIntf::DSMAction">
+<area shape="rect" id="node1" title="Send a command to a DSMEngine." alt="" coords="17,80,199,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,211,32"/>
+</map>

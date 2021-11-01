@@ -1,0 +1,4 @@
+<map id="nidas::core::SensorCatalog" name="nidas::core::SensorCatalog">
+<area shape="rect" id="node1" title="A catalog of sensor DOMElements, implemented with std::map, containing sensor DOMElements,..." alt="" coords="5,80,184,107"/>
+<area shape="rect" id="node2" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="20,5,169,32"/>
+</map>

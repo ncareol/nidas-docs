@@ -1,0 +1,8 @@
+<map id="nidas::dynld::RawSampleInputStream" name="nidas::dynld::RawSampleInputStream">
+<area shape="rect" id="node1" title=" " alt="" coords="217,244,415,285"/>
+<area shape="rect" id="node2" href="$d4/df4/classnidas_1_1dynld_1_1SampleInputStream.html" title="An implementation of a SampleInput." alt="" coords="229,155,403,196"/>
+<area shape="rect" id="node3" href="$d2/d86/classnidas_1_1core_1_1SampleInput.html" title="Interface of an input SampleSource." alt="" coords="233,80,399,107"/>
+<area shape="rect" id="node4" href="$da/d1f/classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node5" href="$d9/d71/classnidas_1_1core_1_1IOChannelRequester.html" title="Interface for an object that requests connections to Inputs or Outputs." alt="" coords="209,5,423,32"/>
+<area shape="rect" id="node6" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="448,5,597,32"/>
+</map>

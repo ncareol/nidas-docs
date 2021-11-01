@@ -1,0 +1,206 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/dca/classnidas_1_1core_1_1DerivedDataClient.html" title="Interface of a DerivedDataClient of the DerivedDataReader." alt="" coords="1007,753,1173,795"/>
+<area shape="rect" id="node2" href="$d7/d30/classnidas_1_1dynld_1_1raf_1_1AlicatSDI.html" title="Alicat Flow Controller, used for the SDI." alt="" coords="1289,1247,1411,1288"/>
+<area shape="rect" id="node3" href="$db/d45/classnidas_1_1dynld_1_1raf_1_1CVIOutput.html" title=" " alt="" coords="1289,672,1411,713"/>
+<area shape="rect" id="node4" href="$d4/df7/classnidas_1_1dynld_1_1raf_1_1LamsSensor.html" title="Sensor class supporting the NCAR/EOL Laser Air Motion Sensor (LAMS) via a DSM." alt="" coords="1289,875,1411,916"/>
+<area shape="rect" id="node5" href="$db/d9f/classnidas_1_1dynld_1_1raf_1_1PIP__Serial.html" title="A class for reading DMT PIP/CIP probe histogram data." alt="" coords="1733,827,1856,868"/>
+<area shape="rect" id="node6" href="$d5/d4b/classnidas_1_1dynld_1_1raf_1_1TwoD__USB.html" title="Base class for PMS 2D particle probes on a USB interface." alt="" coords="1289,977,1411,1019"/>
+<area shape="rect" id="node10" href="$dd/def/classnidas_1_1dynld_1_1raf_1_1VCSEL2__Serial.html" title="VCSEL2 Serial Sensor." alt="" coords="1289,1312,1411,1353"/>
+<area shape="rect" id="node11" href="$d3/d42/classnidas_1_1dynld_1_1raf_1_1VCSEL__Serial.html" title="VCSEL Serial Sensor." alt="" coords="1289,1377,1411,1419"/>
+<area shape="rect" id="node7" href="$db/dd4/classnidas_1_1dynld_1_1raf_1_1TwoD32__USB.html" title="Sensor class for the standard PMS2D probes where the data signals are converted to USB by a converter..." alt="" coords="1531,1015,1653,1056"/>
+<area shape="rect" id="node8" href="$d2/d53/classnidas_1_1dynld_1_1raf_1_1TwoD64__USB.html" title="Class for the USB Fast&#45;2DC." alt="" coords="1531,949,1653,991"/>
+<area shape="rect" id="node9" href="$da/d29/classnidas_1_1dynld_1_1raf_1_1TwoD64__USB__v3.html" title="Class for the USB Fast&#45;2DC." alt="" coords="1733,949,1857,991"/>
+<area shape="rect" id="node12" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="227,694,377,721"/>
+<area shape="rect" id="node13" href="$db/df3/classnidas_1_1core_1_1CalFile.html" title="A class for reading ASCII files containing a time series of calibration data." alt="" coords="497,973,632,999"/>
+<area shape="rect" id="node14" href="$d0/d45/classnidas_1_1core_1_1DSMCatalog.html" title="A catalog of DSM DOMElements, implemented with std::map, containing dsm DOMElements,..." alt="" coords="481,1023,649,1050"/>
+<area shape="rect" id="node15" href="$d8/dfa/classnidas_1_1core_1_1DSMConfig.html" title="Class that should include all that is configurable about a DSM." alt="" coords="483,79,646,106"/>
+<area shape="rect" id="node16" href="$d2/db4/classnidas_1_1core_1_1DSMSensor.html" title="DSMSensor provides the basic support for reading, processing and distributing samples from a sensor a..." alt="" coords="482,1467,647,1494"/>
+<area shape="rect" id="node82" href="$d7/d44/classnidas_1_1core_1_1DSMServer.html" title="A provider of services to a DSM." alt="" coords="483,130,646,157"/>
+<area shape="rect" id="node83" href="$d6/d95/classnidas_1_1core_1_1DSMService.html" title="Base class for a service, as built from a &lt;service&gt; XML tag." alt="" coords="480,181,649,207"/>
+<area shape="rect" id="node87" href="$d3/dea/classnidas_1_1core_1_1FsMount.html" title="Filesystem mounter/unmounter." alt="" coords="492,517,637,543"/>
+<area shape="rect" id="node88" href="$d6/d8a/classnidas_1_1core_1_1IOChannel.html" title="A channel for Input or Output of data." alt="" coords="487,618,643,645"/>
+<area shape="rect" id="node102" href="$dd/de7/classnidas_1_1core_1_1Project.html" title=" " alt="" coords="497,669,632,695"/>
+<area shape="rect" id="node103" href="$d0/d01/classnidas_1_1core_1_1SampleIOProcessor.html" title="Interface of a processor of samples." alt="" coords="459,1950,670,1977"/>
+<area shape="rect" id="node111" href="$d2/d86/classnidas_1_1core_1_1SampleInput.html" title="Interface of an input SampleSource." alt="" coords="481,466,648,493"/>
+<area shape="rect" id="node115" href="$de/da9/classnidas_1_1core_1_1SampleOutput.html" title="Interface of an output stream of samples." alt="" coords="476,567,653,594"/>
+<area shape="rect" id="node123" href="$d8/dd6/classnidas_1_1core_1_1SampleTag.html" title="Class describing a group of variables that are sampled and handled together." alt="" coords="485,719,644,746"/>
+<area shape="rect" id="node124" href="$da/db2/classnidas_1_1core_1_1SensorCatalog.html" title="A catalog of sensor DOMElements, implemented with std::map, containing sensor DOMElements,..." alt="" coords="475,770,654,797"/>
+<area shape="rect" id="node125" href="$d3/d5e/classnidas_1_1core_1_1ServiceCatalog.html" title="A catalog of dsm DOMElements, implemented with std::map, containing dsm DOMElements,..." alt="" coords="473,821,656,847"/>
+<area shape="rect" id="node126" href="$d9/d86/classnidas_1_1core_1_1Site.html" title="A measurement site." alt="" coords="506,871,623,898"/>
+<area shape="rect" id="node129" href="$df/da0/classnidas_1_1core_1_1Variable.html" title="Class describing a sampled variable." alt="" coords="495,922,635,949"/>
+<area shape="rect" id="node131" href="$d7/d27/classnidas_1_1core_1_1VariableConverter.html" title=" " alt="" coords="466,231,663,258"/>
+<area shape="rect" id="node17" href="$d8/d82/classTestMesa.html" title=" " alt="" coords="788,1235,867,1262"/>
+<area shape="rect" id="node18" href="$de/d43/classnidas_1_1core_1_1CharacterSensor.html" title="Implementation of support for a sensor which generates character output." alt="" coords="731,1817,923,1843"/>
+<area shape="rect" id="node62" href="$d5/d7b/classnidas_1_1dynld_1_1A2DSensor.html" title="One or more sensors connected to an A2D." alt="" coords="744,1286,911,1313"/>
+<area shape="rect" id="node65" href="$d6/d22/classnidas_1_1dynld_1_1DSC__Event.html" title="Sensor support for a simple event detector." alt="" coords="743,1337,912,1363"/>
+<area shape="rect" id="node66" href="$d6/d21/classnidas_1_1dynld_1_1DSC__FreqCounter.html" title="Sensor support for a frequency counter device." alt="" coords="723,1387,931,1414"/>
+<area shape="rect" id="node69" href="$d2/de7/classnidas_1_1dynld_1_1DSC__PulseCounter.html" title="Sensor support for a simple pulse counter device." alt="" coords="720,1438,935,1465"/>
+<area shape="rect" id="node70" href="$d5/d24/classnidas_1_1dynld_1_1IR104__Relays.html" title="Support for the digital IO on a Diamond Systems IR104 board." alt="" coords="760,1489,895,1531"/>
+<area shape="rect" id="node71" href="$de/d38/classnidas_1_1dynld_1_1raf_1_1A2DBoardTempSensor.html" title="The I2C temperature sensor on the ADS3 A2D board." alt="" coords="750,1555,905,1596"/>
+<area shape="rect" id="node72" href="$d8/d8d/classnidas_1_1dynld_1_1raf_1_1DSMArincSensor.html" title="A sensor connected to an ARINC port." alt="" coords="766,1620,889,1661"/>
+<area shape="rect" id="node80" href="$dc/d2c/classnidas_1_1dynld_1_1raf_1_1DSMMesaSensor.html" title="Sensors connected to the Mesa AnythingIO card." alt="" coords="765,1685,890,1727"/>
+<area shape="rect" id="node81" href="$d9/d25/classnidas_1_1dynld_1_1raf_1_1IRIGSensor.html" title="Sensor class for controlling and recieving data from an IRIG clock." alt="" coords="766,1751,889,1792"/>
+<area shape="rect" id="node19" href="$d6/d96/classnidas_1_1core_1_1SerialSensor.html" title="Support for a sensor that is sending packets on a TCP socket, a UDP socket, a Bluetooth RF Comm socke..." alt="" coords="1006,2043,1174,2070"/>
+<area shape="rect" id="node53" href="$da/d8e/classnidas_1_1dynld_1_1UDPSocketSensor.html" title="Sensor class using a UDPSocketIODevice for reading from a UDP socket." alt="" coords="985,2359,1195,2386"/>
+<area shape="rect" id="node58" href="$d7/d3f/classnidas_1_1dynld_1_1raf_1_1CVI__LV__Input.html" title="Support for reading the output from the LabView process on the CVI PC." alt="" coords="1029,1781,1151,1823"/>
+<area shape="rect" id="node59" href="$d1/d0e/classnidas_1_1dynld_1_1raf_1_1LamsNetSensor.html" title="Sensor class supporting the NCAR/EOL Laser Air Motion Sensor (LAMS 3&#45;beam) via Ethernet UDP connectio..." alt="" coords="1029,1847,1151,1888"/>
+<area shape="rect" id="node60" href="$d9/d5f/classnidas_1_1dynld_1_1raf_1_1PSI9116__Sensor.html" title="Support for sampling a PSI 9116 pressure scanner from EsterLine Pressure Systems." alt="" coords="1029,1912,1151,1953"/>
+<area shape="rect" id="node61" href="$d2/d3a/classnidas_1_1dynld_1_1raf_1_1SidsNetSensor.html" title="Sensor class supporting the NCAR/EOL SID2H modifications via Ethernet UDP connection." alt="" coords="1029,1977,1151,2019"/>
+<area shape="rect" id="node20" href="$d5/d45/classnidas_1_1dynld_1_1DSMSerialSensor.html" title="A sensor connected to a serial port." alt="" coords="1248,1835,1452,1862"/>
+<area shape="rect" id="node29" href="$d7/de8/classnidas_1_1dynld_1_1GPS__NMEA__Serial.html" title="A class for reading NMEA records from a GPS." alt="" coords="1263,1887,1437,1928"/>
+<area shape="rect" id="node31" href="$dd/d16/classnidas_1_1dynld_1_1IEEE__Float.html" title="A class for unpacking binary IEEE float values from a record into samples." alt="" coords="1285,1952,1415,1993"/>
+<area shape="rect" id="node32" href="$d6/db8/classnidas_1_1dynld_1_1TSI__CPC3772.html" title="Support for a TSI CPC3772 particle counter." alt="" coords="1257,2018,1443,2045"/>
+<area shape="rect" id="node33" href="$dd/d22/classnidas_1_1dynld_1_1WxtSensor.html" title="Vaisala WXT weather sensor." alt="" coords="1267,2069,1433,2095"/>
+<area shape="rect" id="node34" href="$d6/d73/classnidas_1_1dynld_1_1isff_1_1CSI__CRX__Binary.html" title="A class for parsing the binary output of Campbell Scientific CR10X and CR23X data loggers." alt="" coords="1283,2120,1417,2161"/>
+<area shape="rect" id="node35" href="$dc/dd2/classnidas_1_1dynld_1_1isff_1_1CU__Coldwire.html" title="A class for parsing the binary output of Dale Lawrence&#39;s cold&#45;wire sensor package." alt="" coords="1291,2185,1409,2227"/>
+<area shape="rect" id="node36" href="$d4/dc9/classnidas_1_1dynld_1_1isff_1_1DAUSensor.html" title=" " alt="" coords="1291,2251,1409,2292"/>
+<area shape="rect" id="node37" href="$d8/dcc/classnidas_1_1dynld_1_1isff_1_1Licor7500.html" title="Sensor class for the Licor 7500 gas analyzer." alt="" coords="1291,2316,1409,2357"/>
+<area shape="rect" id="node38" href="$d6/dd5/classnidas_1_1dynld_1_1isff_1_1MOSMote.html" title="A SerialSensor for support of an early, buggy version of a Mantis OS Mote, which insert null." alt="" coords="1291,2381,1409,2423"/>
+<area shape="rect" id="node39" href="$d5/ded/classnidas_1_1dynld_1_1isff_1_1NCAR__TRH.html" title="Sensor class for the NCAR hygrothermometer, built at EOL." alt="" coords="1291,2447,1409,2488"/>
+<area shape="rect" id="node40" href="$dd/d11/classnidas_1_1dynld_1_1isff_1_1Wind2D.html" title=" " alt="" coords="1291,2512,1409,2553"/>
+<area shape="rect" id="node42" href="$d2/dc3/classnidas_1_1dynld_1_1isff_1_1Wind3D.html" title="A class for performing the common processes on wind data from a 3D sonic anemometer." alt="" coords="1291,2577,1409,2619"/>
+<area shape="rect" id="node47" href="$da/d1a/classnidas_1_1dynld_1_1isff_1_1WisardMote.html" title=" " alt="" coords="1291,1443,1409,1484"/>
+<area shape="rect" id="node48" href="$d2/dcb/classnidas_1_1dynld_1_1iss_1_1TiltSensor.html" title="CXTILT02 2&#45;axis tilt sensor from Crossbow." alt="" coords="1287,1508,1413,1549"/>
+<area shape="rect" id="node49" href="$d3/dd3/classnidas_1_1dynld_1_1raf_1_1A2D__Serial.html" title="A2D Serial Sensor." alt="" coords="1289,1573,1411,1615"/>
+<area shape="rect" id="node50" href="$d9/d07/classnidas_1_1dynld_1_1raf_1_1PIP__Image.html" title="Sensor class to receive PIP images." alt="" coords="1289,1639,1411,1680"/>
+<area shape="rect" id="node51" href="$d1/d6a/classnidas_1_1dynld_1_1raf_1_1PPT__Serial.html" title="Honeywell PTT Pressure Transducer Serial Sensor." alt="" coords="1289,1704,1411,1745"/>
+<area shape="rect" id="node52" href="$de/d33/classnidas_1_1dynld_1_1raf_1_1Watlow.html" title="Sensor class supporting the NCAR/ACOM Watlow CLS208 Instrument." alt="" coords="1289,1769,1411,1811"/>
+<area shape="rect" id="node21" href="$d4/d39/classnidas_1_1dynld_1_1raf_1_1SppSerial.html" title="Base class for many DMT Probes, including SPP100, SPP200, SPP300 and the CDP." alt="" coords="1531,1828,1653,1869"/>
+<area shape="rect" id="node27" href="$da/da3/classnidas_1_1dynld_1_1raf_1_1TwoD__House.html" title="A class for reading and parsing the PMS2D Housekeeping (from the old interface, not the new Fast 2DC)..." alt="" coords="1531,1697,1653,1739"/>
+<area shape="rect" id="node28" href="$d3/d09/classnidas_1_1dynld_1_1raf_1_1UHSAS__Serial.html" title="A class for reading the UHSAS probe." alt="" coords="1531,1763,1653,1804"/>
+<area shape="rect" id="node22" href="$d1/d1d/classnidas_1_1dynld_1_1raf_1_1BCPD__Serial.html" title="A class for reading PMS1D probes with the DMT interface conversion." alt="" coords="1733,1828,1856,1869"/>
+<area shape="rect" id="node23" href="$de/dad/classnidas_1_1dynld_1_1raf_1_1CDP__Serial.html" title="A class for reading PMS1D probes with the DMT interface conversion." alt="" coords="1733,1893,1856,1935"/>
+<area shape="rect" id="node24" href="$d1/d28/classnidas_1_1dynld_1_1raf_1_1SPP100__Serial.html" title="A class for reading PMS1D probes with the DMT interface conversion." alt="" coords="1733,1959,1856,2000"/>
+<area shape="rect" id="node25" href="$d2/d35/classnidas_1_1dynld_1_1raf_1_1SPP200__Serial.html" title="A class for reading PMS1D probes with the DMT interface conversion." alt="" coords="1733,1697,1856,1739"/>
+<area shape="rect" id="node26" href="$d4/d32/classnidas_1_1dynld_1_1raf_1_1SPP300__Serial.html" title="A class for reading PMS1D probes with the DMT interface conversion." alt="" coords="1733,1763,1856,1804"/>
+<area shape="rect" id="node30" href="$d6/d15/classnidas_1_1dynld_1_1GPS__Novatel__Serial.html" title="A class for reading Novatel records from a GPS." alt="" coords="1503,1893,1681,1935"/>
+<area shape="rect" id="node41" href="$d4/d90/classnidas_1_1dynld_1_1isff_1_1PropVane.html" title="A serial prop vane wind sensor." alt="" coords="1533,2429,1651,2471"/>
+<area shape="rect" id="node43" href="$d0/dd4/classnidas_1_1dynld_1_1isff_1_1ATIK__Sonic.html" title="A class for making sense of data from an ATIK 3D sonic anemometer." alt="" coords="1533,2625,1651,2667"/>
+<area shape="rect" id="node44" href="$da/d27/classnidas_1_1dynld_1_1isff_1_1CSAT3__Sonic.html" title="A class for making sense of data from a Campbell Scientific Inc CSAT3 3D sonic anemometer." alt="" coords="1533,2495,1651,2536"/>
+<area shape="rect" id="node46" href="$d5/d8d/classnidas_1_1dynld_1_1isff_1_1SonicAnemometer.html" title="3D sonic anemometer class." alt="" coords="1523,2560,1661,2601"/>
+<area shape="rect" id="node45" href="$d6/d6a/classnidas_1_1dynld_1_1isff_1_1CSI__IRGA__Sonic.html" title="A class for making sense of data from a Campbell Scientific IRGASON integrated Gas Analyzer and 3D so..." alt="" coords="1729,2495,1860,2536"/>
+<area shape="rect" id="node54" href="$d3/d9d/classnidas_1_1dynld_1_1iss_1_1WICORSensor.html" title=" " alt="" coords="1287,2740,1413,2781"/>
+<area shape="rect" id="node55" href="$d6/d39/classnidas_1_1dynld_1_1raf_1_1UDPSocketSensor.html" title="nidas::dynld::raf::UPDSocketSensor is the same as a nidas::dynld::UDPSocketSensor,..." alt="" coords="1284,2675,1416,2716"/>
+<area shape="rect" id="node56" href="$d6/d43/classnidas_1_1dynld_1_1raf_1_1PHIPS__UDP.html" title="PHIPS &#45; HALO UDP Sensor." alt="" coords="1531,2756,1653,2797"/>
+<area shape="rect" id="node57" href="$da/d64/classnidas_1_1dynld_1_1raf_1_1UDPArincSensor.html" title="ARINC over UDP, data received from the Alta ARINC to Ethernet appliance." alt="" coords="1531,2691,1653,2732"/>
+<area shape="rect" id="node63" href="$da/dab/classnidas_1_1dynld_1_1DSC__A2DSensor.html" title="One or more sensors connected to a Diamond Systems Corp A2D." alt="" coords="989,1286,1191,1313"/>
+<area shape="rect" id="node64" href="$df/d56/classnidas_1_1dynld_1_1raf_1_1DSMAnalogSensor.html" title="A sensor connected to the DSM A2D." alt="" coords="1023,1220,1157,1261"/>
+<area shape="rect" id="node67" href="$dc/d4a/classnidas_1_1dynld_1_1ParoSci__202BG__P.html" title="Sensor support for a ParoScientific 202BG pressure sensor connected to a Diamond Systems GPIO&#45;MM card..." alt="" coords="1017,1403,1163,1444"/>
+<area shape="rect" id="node68" href="$de/d11/classnidas_1_1dynld_1_1ParoSci__202BG__T.html" title="Sensor support for a ParoScientific 202BG temperature sensor connected to a Diamond Systems GPIO&#45;MM c..." alt="" coords="1017,1337,1163,1379"/>
+<area shape="rect" id="node73" href="$d6/d69/classTestArinc.html" title=" " alt="" coords="1051,1534,1129,1561"/>
+<area shape="rect" id="node74" href="$dd/d6e/classnidas_1_1dynld_1_1raf_1_1ADC__HW__EB7022597.html" title="ARINC ADC label processor." alt="" coords="1013,1585,1167,1627"/>
+<area shape="rect" id="node75" href="$d5/ddc/classnidas_1_1dynld_1_1raf_1_1Arinc__IRS.html" title="An Inertial Reference Sensor (IRS) connected to an ARINC port." alt="" coords="1029,1651,1151,1692"/>
+<area shape="rect" id="node78" href="$d2/df8/classnidas_1_1dynld_1_1raf_1_1GPS__HW__HG2021GB02.html" title="ARINC IRS label processor." alt="" coords="1006,1716,1174,1757"/>
+<area shape="rect" id="node79" href="$d8/d4f/classnidas_1_1dynld_1_1raf_1_1LSZ__HW__EB7032239.html" title="ARINC LSZ label processor." alt="" coords="1015,1468,1165,1509"/>
+<area shape="rect" id="node76" href="$d8/da5/classnidas_1_1dynld_1_1raf_1_1IRS__HW__HG2001GD.html" title="ARINC IRS label processor." alt="" coords="1275,1181,1425,1223"/>
+<area shape="rect" id="node77" href="$d8/df3/classnidas_1_1dynld_1_1raf_1_1IRS__HW__YG1854.html" title="ARINC IRS label processor." alt="" coords="1287,1116,1413,1157"/>
+<area shape="rect" id="node84" href="$df/d05/classnidas_1_1dynld_1_1RawSampleService.html" title="A RawSampleService reads raw Samples from a socket connection and sends the samples to one or more Sa..." alt="" coords="720,63,935,90"/>
+<area shape="rect" id="node85" href="$d7/da8/classnidas_1_1dynld_1_1XMLConfigService.html" title=" " alt="" coords="722,13,933,39"/>
+<area shape="rect" id="node86" href="$df/d2c/classnidas_1_1dynld_1_1XMLConfigAllService.html" title=" " alt="" coords="1000,5,1180,47"/>
+<area shape="rect" id="node89" href="$d1/d6f/classnidas_1_1core_1_1DatagramSocket.html" title="Implementation of an IOChannel, over a DatagramSocket." alt="" coords="732,466,923,493"/>
+<area shape="rect" id="node90" href="$d8/de7/classnidas_1_1core_1_1FileSet.html" title="Implementation of an IOChannel using an nidas::util::FileSet." alt="" coords="760,567,895,594"/>
+<area shape="rect" id="node92" href="$d8/de9/classnidas_1_1core_1_1McSocket.html" title="Implementation of an IOChannel, using nidas::util::McSocket&lt;nidas::util::Socket&gt; to establish a TCP c..." alt="" coords="751,517,903,543"/>
+<area shape="rect" id="node93" href="$dd/d50/classnidas_1_1core_1_1McSocketUDP.html" title="Implementation of an IOChannel, using nidas::util::McSocket&lt;nidas::util::DatagramSocket&gt; to establish..." alt="" coords="737,770,918,797"/>
+<area shape="rect" id="node95" href="$d9/d4b/classnidas_1_1core_1_1ServerSocket.html" title="Implementation of an IOChannel, over a ServerSocket." alt="" coords="741,618,913,645"/>
+<area shape="rect" id="node96" href="$da/da6/classnidas_1_1core_1_1Socket.html" title="Implementation of an IOChannel, over a Socket." alt="" coords="760,669,895,695"/>
+<area shape="rect" id="node97" href="$dd/df5/classnidas_1_1core_1_1UnixIOChannel.html" title="Simple implementation of an IOChannel, over an opened file descriptor." alt="" coords="736,719,919,746"/>
+<area shape="rect" id="node98" href="$d7/d6e/classnidas_1_1dynld_1_1isff_1_1GOESXmtr.html" title="Support for a GOES transmitter, implemented as an IOChannel." alt="" coords="769,821,886,863"/>
+<area shape="rect" id="node101" href="$d7/d06/classnidas_1_1dynld_1_1psql_1_1PSQLChannel.html" title=" " alt="" coords="765,400,889,441"/>
+<area shape="rect" id="node91" href="$d4/d5a/classnidas_1_1dynld_1_1FileSet.html" title="Dynamically loadable nidas::core::FileSet." alt="" coords="1019,819,1161,846"/>
+<area shape="rect" id="node94" href="$d7/d60/classnidas_1_1core_1_1MultipleUDPSockets.html" title=" " alt="" coords="983,870,1197,897"/>
+<area shape="rect" id="node99" href="$d7/d7c/classnidas_1_1dynld_1_1isff_1_1SE__GOESXmtr.html" title="An IOChannel implementation for a Signal Engineering GOES transmitter." alt="" coords="1030,1052,1150,1093"/>
+<area shape="rect" id="node100" href="$db/dcb/classnidas_1_1dynld_1_1isff_1_1SimGOESXmtr.html" title="An IOChannel implementation to simulate a GOES transmitter." alt="" coords="1031,921,1149,963"/>
+<area shape="rect" id="node104" href="$d5/d80/classnidas_1_1core_1_1SampleArchiver.html" title=" " alt="" coords="735,1934,920,1961"/>
+<area shape="rect" id="node106" href="$d7/df9/classnidas_1_1dynld_1_1SampleProcessor.html" title=" " alt="" coords="726,2051,929,2078"/>
+<area shape="rect" id="node107" href="$d3/d15/classnidas_1_1dynld_1_1StatisticsProcessor.html" title="Interface of a processor of samples." alt="" coords="750,1868,905,1909"/>
+<area shape="rect" id="node108" href="$df/d46/classnidas_1_1dynld_1_1psql_1_1PSQLProcessor.html" title=" " alt="" coords="765,1985,889,2027"/>
+<area shape="rect" id="node109" href="$d7/da2/classnidas_1_1dynld_1_1raf_1_1CVIProcessor.html" title="Processor to support Counter&#45;flow Virtual Impactor." alt="" coords="766,2103,889,2144"/>
+<area shape="rect" id="node110" href="$d5/d52/classnidas_1_1dynld_1_1raf_1_1SyncRecordGenerator.html" title=" " alt="" coords="752,3257,903,3299"/>
+<area shape="rect" id="node105" href="$d8/d5e/classnidas_1_1dynld_1_1SampleArchiver.html" title=" " alt="" coords="995,2410,1185,2437"/>
+<area shape="rect" id="node112" href="$d4/df4/classnidas_1_1dynld_1_1SampleInputStream.html" title="An implementation of a SampleInput." alt="" coords="741,283,914,324"/>
+<area shape="rect" id="node113" href="$da/d55/classnidas_1_1dynld_1_1RawSampleInputStream.html" title=" " alt="" coords="991,283,1189,324"/>
+<area shape="rect" id="node114" href="$db/dca/classnidas_1_1dynld_1_1isff_1_1PacketInputStream.html" title=" " alt="" coords="1019,217,1161,259"/>
+<area shape="rect" id="node116" href="$d6/d3e/classnidas_1_1core_1_1SampleOutputBase.html" title="Implementation of portions of SampleOutput." alt="" coords="724,349,931,375"/>
+<area shape="rect" id="node117" href="$dd/df3/classnidas_1_1dynld_1_1AsciiOutput.html" title=" " alt="" coords="1006,450,1174,477"/>
+<area shape="rect" id="node118" href="$dd/dd6/classnidas_1_1dynld_1_1SampleOutputStream.html" title="A class for serializing Samples on an OutputStream." alt="" coords="999,501,1181,543"/>
+<area shape="rect" id="node121" href="$dc/dcd/classnidas_1_1dynld_1_1UDPSampleOutput.html" title="Interface of an output stream of samples." alt="" coords="984,399,1196,426"/>
+<area shape="rect" id="node122" href="$df/d8c/classnidas_1_1dynld_1_1isff_1_1GOESOutput.html" title="A SampleOutput for packaging data for a GOES DCP Transmitter." alt="" coords="1031,987,1149,1028"/>
+<area shape="rect" id="node119" href="$db/d53/classnidas_1_1dynld_1_1RawSampleOutputStream.html" title=" " alt="" coords="1245,468,1455,509"/>
+<area shape="rect" id="node120" href="$d0/d6b/classnidas_1_1dynld_1_1psql_1_1PSQLSampleOutput.html" title=" " alt="" coords="1276,533,1424,575"/>
+<area shape="rect" id="node127" href="$d6/dca/classnidas_1_1dynld_1_1isff_1_1GroundStation.html" title="GroundStation is a sub&#45;class of a measurement Site." alt="" coords="769,952,886,993"/>
+<area shape="rect" id="node128" href="$d1/dad/classnidas_1_1dynld_1_1raf_1_1Aircraft.html" title="Aircraft is a sub&#45;class of a measurement Site." alt="" coords="766,887,889,928"/>
+<area shape="rect" id="node130" href="$da/da1/classnidas_1_1dynld_1_1raf_1_1SyncRecordVariable.html" title="A Variable associated with a SyncRecord." alt="" coords="758,1017,897,1059"/>
+<area shape="rect" id="node132" href="$d2/d95/classnidas_1_1core_1_1Linear.html" title="Why isn&#39;t this a sublcass of Polynomial which sets MAX_NUM_COEFFS to 2?" alt="" coords="763,181,892,207"/>
+<area shape="rect" id="node133" href="$d2/d55/classnidas_1_1core_1_1Polynomial.html" title=" " alt="" coords="748,231,907,258"/>
+<area shape="rect" id="node135" href="$d4/d55/classnidas_1_1dynld_1_1isff_1_1CS__Krypton.html" title="A data converter from voltage to water vapor density in gm/m^3 for a Campbell Scientfic krypton hygro..." alt="" coords="769,115,886,156"/>
+<area shape="rect" id="node134" href="$dd/df0/classnidas_1_1dynld_1_1isff_1_1RebsLinear.html" title="A linear converter useful for REBS net radiometers, which have two sets of linear coefficients,..." alt="" coords="1031,152,1149,193"/>
+<area shape="rect" id="node136" href="$df/d08/classnidas_1_1core_1_1HeaderSource.html" title="An interface for sending a SampleHeader to a SampleOutput." alt="" coords="476,3821,653,3847"/>
+<area shape="rect" id="node137" href="$d5/da0/classARLIngest.html" title=" " alt="" coords="785,3938,869,3965"/>
+<area shape="rect" id="node138" href="$d6/d5f/classNidsMerge.html" title=" " alt="" coords="785,3770,870,3797"/>
+<area shape="rect" id="node139" href="$d5/d65/classSensorExtract.html" title=" " alt="" coords="775,3821,880,3847"/>
+<area shape="rect" id="node140" href="$d6/dda/classnidas_1_1dynld_1_1raf_1_1Extract2D.html" title=" " alt="" coords="766,3872,889,3913"/>
+<area shape="rect" id="node141" href="$de/d34/classExtractDMT.html" title=" " alt="" coords="1043,3905,1137,3931"/>
+<area shape="rect" id="node142" href="$df/deb/classExtractFast2D.html" title=" " alt="" coords="1037,3854,1143,3881"/>
+<area shape="rect" id="node143" href="$d9/d71/classnidas_1_1core_1_1IOChannelRequester.html" title="Interface for an object that requests connections to Inputs or Outputs." alt="" coords="195,466,409,493"/>
+<area shape="rect" id="node144" href="$db/d7b/classnidas_1_1core_1_1Polled.html" title="Interface for objects with a file descriptor, providing a virtual method to be called when system cal..." alt="" coords="237,4298,367,4325"/>
+<area shape="rect" id="node145" href="$de/d1b/classnidas_1_1core_1_1RemoteSerialConnection.html" title=" " alt="" coords="479,4192,651,4233"/>
+<area shape="rect" id="node146" href="$d3/dd4/classnidas_1_1core_1_1RemoteSerialListener.html" title=" " alt="" coords="479,4388,651,4429"/>
+<area shape="rect" id="node147" href="$df/d2c/classnidas_1_1core_1_1SensorHandler_1_1NotifyPipe.html" title=" " alt="" coords="475,4257,655,4299"/>
+<area shape="rect" id="node148" href="$d5/d34/classnidas_1_1core_1_1SensorHandler_1_1PolledDSMSensor.html" title=" " alt="" coords="475,4323,655,4364"/>
+<area shape="rect" id="node149" href="$d1/d5b/classnidas_1_1util_1_1Runnable.html" title=" " alt="" coords="5,2162,147,2189"/>
+<area shape="rect" id="node150" href="$dc/dd3/classnidas_1_1util_1_1Thread.html" title=" " alt="" coords="239,3239,365,3266"/>
+<area shape="rect" id="node151" href="$db/dfc/classDataWriter.html" title=" " alt="" coords="523,3871,606,3898"/>
+<area shape="rect" id="node152" href="$df/ddc/classModemLineMonitor.html" title=" " alt="" coords="499,3922,631,3949"/>
+<area shape="rect" id="node153" href="$d4/d31/classModemLineSetter.html" title=" " alt="" coords="503,3973,627,3999"/>
+<area shape="rect" id="node154" href="$d4/d9c/classPSI.html" title=" " alt="" coords="543,4023,587,4050"/>
+<area shape="rect" id="node155" href="$d8/d1a/classSender.html" title=" " alt="" coords="533,2590,596,2617"/>
+<area shape="rect" id="node156" href="$dd/dea/classTestSource.html" title=" " alt="" coords="783,2219,871,2246"/>
+<area shape="rect" id="node157" href="$d8/d96/classnidas_1_1core_1_1DerivedDataReader.html" title="This class will read, parse and make available the parameters in the onboard real&#45;time broadcast of d..." alt="" coords="482,2707,647,2748"/>
+<area shape="rect" id="node158" href="$dc/dbf/classnidas_1_1core_1_1FsMountWorkerThread.html" title="Filesystem mounter/unmounter." alt="" coords="471,2772,658,2813"/>
+<area shape="rect" id="node159" href="$d0/da7/classnidas_1_1core_1_1Looper.html" title="Looper is a Thread that periodically loops, calling the LooperClient::looperNotify() method of Looper..." alt="" coords="498,2838,631,2865"/>
+<area shape="rect" id="node160" href="$d6/dca/classnidas_1_1core_1_1SampleOutputRequestThread.html" title="Interface of an output stream of samples." alt="" coords="476,2889,653,2931"/>
+<area shape="rect" id="node161" href="$dd/d74/classnidas_1_1core_1_1SampleThread.html" title="Interface for a Thread for buffering samples." alt="" coords="475,2219,654,2246"/>
+<area shape="rect" id="node164" href="$de/df5/classnidas_1_1core_1_1SensorHandler.html" title="SensorHandler implements a DSMSensor event loop." alt="" coords="475,2955,655,2982"/>
+<area shape="rect" id="node165" href="$dd/dc0/classnidas_1_1core_1_1SensorOpener.html" title="Thread which opens DSMSensors." alt="" coords="476,3006,653,3033"/>
+<area shape="rect" id="node166" href="$df/d42/classnidas_1_1core_1_1ServerSocket_1_1ConnectionThread.html" title=" " alt="" coords="479,3057,651,3099"/>
+<area shape="rect" id="node167" href="$d0/de0/classnidas_1_1core_1_1Socket_1_1ConnectionThread.html" title=" " alt="" coords="497,3123,632,3164"/>
+<area shape="rect" id="node168" href="$d8/da4/classnidas_1_1core_1_1StatusListener.html" title="thread that listens to multicast messages from all of the DSMs." alt="" coords="475,3189,654,3215"/>
+<area shape="rect" id="node169" href="$d6/d93/classnidas_1_1core_1_1StatusThread.html" title="A thread that runs periodically checking and multicasting the status of a DSMEngine." alt="" coords="479,3239,651,3266"/>
+<area shape="rect" id="node172" href="$d9/d29/classnidas_1_1core_1_1XmlRpcThread.html" title="A thread that provides XML&#45;based Remote Procedure Calls to web interfaces." alt="" coords="474,3290,655,3317"/>
+<area shape="rect" id="node175" href="$d5/d8a/classnidas_1_1dynld_1_1RawSampleService_1_1Worker.html" title="Worker thread that is run when a SampleInputConnection is established." alt="" coords="457,3341,672,3383"/>
+<area shape="rect" id="node176" href="$d1/d5e/classnidas_1_1dynld_1_1UDPSampleOutput_1_1ConnectionMonitor.html" title="Thread that waits for connections to die." alt="" coords="459,3407,671,3448"/>
+<area shape="rect" id="node177" href="$de/de8/classnidas_1_1dynld_1_1UDPSampleOutput_1_1VariableListWorker.html" title="Worker thread that is run when a connection comes in, sending XML over a socket." alt="" coords="459,3472,671,3513"/>
+<area shape="rect" id="node178" href="$d7/da5/classnidas_1_1dynld_1_1UDPSampleOutput_1_1XMLSocketListener.html" title="Thread that waits for a connection on a tcp socket, starting a VariableListWorker on each connection." alt="" coords="459,3537,671,3579"/>
+<area shape="rect" id="node179" href="$d8/d39/classnidas_1_1dynld_1_1XMLConfigService_1_1Worker.html" title="Worker thread that is run when a connection comes in." alt="" coords="459,3603,670,3644"/>
+<area shape="rect" id="node180" href="$d8/d35/classnidas_1_1dynld_1_1raf_1_1SyncServer.html" title=" " alt="" coords="503,4075,626,4116"/>
+<area shape="rect" id="node181" href="$d0/d68/classnidas_1_1util_1_1DetachedThread.html" title="A Thread with a constructor that sets detached=true." alt="" coords="473,3669,656,3695"/>
+<area shape="rect" id="node185" href="$d7/d49/classnidas_1_1util_1_1McSocketListener.html" title="Class for listening on McSocket requests on a specific multicast address and UDP port number." alt="" coords="469,3770,660,3797"/>
+<area shape="rect" id="node186" href="$da/dbb/classnidas_1_1util_1_1McSocketMulticaster.html" title="Thread which is started by McSocket to multicast requests for connections." alt="" coords="461,2641,669,2683"/>
+<area shape="rect" id="node187" href="$d8/d69/classnidas_1_1util_1_1ThreadRunnable.html" title="The ThreadRunnable class implements a Thread which uses a Runnable target to supply the run() method." alt="" coords="474,3719,655,3746"/>
+<area shape="rect" id="node162" href="$dd/dea/classnidas_1_1core_1_1SampleBuffer.html" title="A SampleClient that buffers its received samples, using a pair of STL vectors, and then sends the buf..." alt="" coords="741,2519,913,2546"/>
+<area shape="rect" id="node163" href="$d4/d3f/classnidas_1_1core_1_1SampleSorter.html" title="A SampleClient that sorts its received samples, using an STL multiset, and then sends the sorted samp..." alt="" coords="740,2570,915,2597"/>
+<area shape="rect" id="node170" href="$d3/d2e/classnidas_1_1core_1_1DSMEngineStat.html" title="Thread which provides status in XML form from a dsm on a datagram socket, to be read by the status_li..." alt="" coords="733,3206,921,3233"/>
+<area shape="rect" id="node171" href="$d7/d47/classnidas_1_1core_1_1DSMServerStat.html" title="Thread which provides status from a dsm_server on a datagram socket." alt="" coords="734,3155,921,3182"/>
+<area shape="rect" id="node173" href="$d3/d94/classnidas_1_1core_1_1DSMEngineIntf.html" title="A thread that provides XML&#45;based Remote Procedure Calls to web interfaces from the DSMEngine." alt="" coords="736,3374,919,3401"/>
+<area shape="rect" id="node174" href="$d0/d3c/classnidas_1_1core_1_1DSMServerIntf.html" title="A thread that provides XML&#45;based Remote Procedure Calls to web interfaces from the DSMServer." alt="" coords="737,3323,918,3350"/>
+<area shape="rect" id="node182" href="$db/d5e/classServerThread.html" title=" " alt="" coords="777,3669,877,3695"/>
+<area shape="rect" id="node183" href="$d1/d8b/classWriterThread.html" title=" " alt="" coords="779,3719,875,3746"/>
+<area shape="rect" id="node184" href="$d2/de8/classnidas_1_1util_1_1ThreadJoiner.html" title="In certain situations one needs to &quot;join oneself&quot;, which would be a deadlock." alt="" coords="747,3618,908,3645"/>
+<area shape="rect" id="node188" href="$dd/dab/classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples." alt="" coords="216,2278,388,2305"/>
+<area shape="rect" id="node189" href="$d5/df9/classDataStats.html" title=" " alt="" coords="525,2438,605,2465"/>
+<area shape="rect" id="node190" href="$d3/dc6/classDumpClient.html" title=" " alt="" coords="519,2489,610,2515"/>
+<area shape="rect" id="node191" href="$d3/dc9/classSampleDispatcher.html" title=" " alt="" coords="500,2337,629,2363"/>
+<area shape="rect" id="node192" href="$d8/d43/classTestClient.html" title=" " alt="" coords="524,2387,605,2414"/>
+<area shape="rect" id="node193" href="$d9/d0a/classnidas_1_1core_1_1Resampler.html" title="Interface for a resampler, simply a SampleClient and a SampleSource." alt="" coords="487,2169,643,2195"/>
+<area shape="rect" id="node199" href="$dd/d8e/classnidas_1_1dynld_1_1raf_1_1SyncRecordReader.html" title="SyncRecordReader handles sync samples and provides an interface to access Variables and read sync rec..." alt="" coords="497,2271,632,2312"/>
+<area shape="rect" id="node194" href="$db/d63/classnidas_1_1core_1_1NearestResampler.html" title="A simple, nearest&#45;point resampler, for generating merged samples from variables from one or more samp..." alt="" coords="726,2402,929,2429"/>
+<area shape="rect" id="node195" href="$da/d73/classnidas_1_1core_1_1NearestResamplerAtRate.html" title="A simple, nearest&#45;point resampler, for generating merged samples from variables from one or more samp..." alt="" coords="726,2453,929,2495"/>
+<area shape="rect" id="node196" href="$d9/dde/classnidas_1_1core_1_1SampleAverager.html" title=" " alt="" coords="733,2169,921,2195"/>
+<area shape="rect" id="node197" href="$d1/dcd/classnidas_1_1dynld_1_1StatisticsCruncher.html" title=" " alt="" coords="750,2271,905,2312"/>
+<area shape="rect" id="node198" href="$d9/dba/classnidas_1_1dynld_1_1raf_1_1SyncRecordSource.html" title=" " alt="" coords="760,2336,895,2377"/>
+<area shape="rect" id="node200" href="$da/d42/classnidas_1_1core_1_1SampleConnectionRequester.html" title="Interface for an object that requests connections SampleOutputs." alt="" coords="200,4075,404,4116"/>
+<area shape="rect" id="node201" href="$db/dcb/classnidas_1_1core_1_1DSMEngine.html" title="Application for running the NIDAS data acquistion process." alt="" coords="483,4141,647,4167"/>
+<area shape="rect" id="node202" href="$da/d1f/classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples." alt="" coords="213,2001,391,2027"/>
+<area shape="rect" id="node203" href="$de/dbb/classnidas_1_1core_1_1SamplePipeline.html" title="SamplePipeline sorts samples that are coming from one or more inputs." alt="" coords="473,2001,657,2027"/>
+<area shape="rect" id="node204" href="$d9/d77/classnidas_1_1core_1_1SampleSourceSupport.html" title="A source of samples." alt="" coords="475,2052,654,2093"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="nidas::util::McSocketDatagram" name="nidas::util::McSocketDatagram">
+<area shape="rect" id="node1" title="Datagram that is multicast by a host when it wants a service." alt="" coords="17,276,217,303"/>
+<area shape="rect" id="node2" href="$dd/dd0/classnidas_1_1util_1_1DatagramPacketT.html" title=" " alt="" coords="25,185,208,227"/>
+<area shape="rect" id="node3" href="$d3/dbe/classnidas_1_1util_1_1DatagramPacketBase.html" title="Abstract base class for a UDP datagram." alt="" coords="5,5,217,32"/>
+<area shape="rect" id="node4" href="$dd/dd0/classnidas_1_1util_1_1DatagramPacketT.html" title="A DatagramPacket with a specific structure of data." alt="" coords="133,81,316,123"/>
+</map>

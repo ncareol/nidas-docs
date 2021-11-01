@@ -1,0 +1,8 @@
+<map id="nidas::dynld::ParoSci_202BG_T" name="nidas::dynld::ParoSci_202BG_T">
+<area shape="rect" id="node1" title="Sensor support for a ParoScientific 202BG temperature sensor connected to a Diamond Systems GPIO&#45;MM c..." alt="" coords="221,229,368,271"/>
+<area shape="rect" id="node2" href="$d6/d21/classnidas_1_1dynld_1_1DSC__FreqCounter.html" title="Sensor support for a frequency counter device." alt="" coords="191,155,399,181"/>
+<area shape="rect" id="node3" href="$d2/db4/classnidas_1_1core_1_1DSMSensor.html" title="DSMSensor provides the basic support for reading, processing and distributing samples from a sensor a..." alt="" coords="212,80,377,107"/>
+<area shape="rect" id="node4" href="$da/d1f/classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node5" href="$dd/dab/classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples." alt="" coords="209,5,381,32"/>
+<area shape="rect" id="node6" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="405,5,555,32"/>
+</map>

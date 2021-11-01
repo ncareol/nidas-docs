@@ -1,0 +1,8 @@
+<map id="nidas::dynld::raf::SyncRecordGenerator" name="nidas::dynld::raf::SyncRecordGenerator">
+<area shape="rect" id="node1" title=" " alt="" coords="516,82,667,123"/>
+<area shape="rect" id="node2" href="$d0/d01/classnidas_1_1core_1_1SampleIOProcessor.html" title="Interface of a processor of samples." alt="" coords="257,64,468,91"/>
+<area shape="rect" id="node3" href="$da/d1f/classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples." alt="" coords="18,5,197,32"/>
+<area shape="rect" id="node4" href="$da/d42/classnidas_1_1core_1_1SampleConnectionRequester.html" title="Interface for an object that requests connections SampleOutputs." alt="" coords="5,57,209,98"/>
+<area shape="rect" id="node5" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="33,123,182,149"/>
+<area shape="rect" id="node6" href="$df/d08/classnidas_1_1core_1_1HeaderSource.html" title="An interface for sending a SampleHeader to a SampleOutput." alt="" coords="274,115,451,141"/>
+</map>

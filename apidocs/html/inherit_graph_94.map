@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/d2f/classnidas_1_1core_1_1NidasAppArg.html" title="A NidasAppArg is command&#45;line argument which can be handled by NidasApp." alt="" coords="5,35,176,61"/>
+<area shape="rect" id="node2" href="$da/d5e/classnidas_1_1core_1_1BadSampleFilterArg.html" title="BadSampleFilterArg is a NidasAppArg for configuring a BadSampleFilter with filter rules pased to the ..." alt="" coords="224,5,435,32"/>
+<area shape="rect" id="node3" href="$d7/d0c/classnidas_1_1core_1_1NidasAppInputFilesArg.html" title="Extend NidasAppArg so the default input specifier and port can be customized, which in turn updates t..." alt="" coords="239,57,419,98"/>
+</map>

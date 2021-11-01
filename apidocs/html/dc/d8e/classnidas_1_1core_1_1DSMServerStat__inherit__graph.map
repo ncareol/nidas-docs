@@ -1,0 +1,6 @@
+<map id="nidas::core::DSMServerStat" name="nidas::core::DSMServerStat">
+<area shape="rect" id="node1" title="Thread which provides status from a dsm_server on a datagram socket." alt="" coords="5,229,192,256"/>
+<area shape="rect" id="node2" href="$d6/d93/classnidas_1_1core_1_1StatusThread.html" title="A thread that runs periodically checking and multicasting the status of a DSMEngine." alt="" coords="13,155,185,181"/>
+<area shape="rect" id="node3" href="$dc/dd3/classnidas_1_1util_1_1Thread.html" title=" " alt="" coords="35,80,162,107"/>
+<area shape="rect" id="node4" href="$d1/d5b/classnidas_1_1util_1_1Runnable.html" title=" " alt="" coords="28,5,169,32"/>
+</map>

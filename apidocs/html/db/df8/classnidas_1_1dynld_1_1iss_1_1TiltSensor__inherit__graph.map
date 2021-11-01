@@ -1,0 +1,9 @@
+<map id="nidas::dynld::iss::TiltSensor" name="nidas::dynld::iss::TiltSensor">
+<area shape="rect" id="node1" title="CXTILT02 2&#45;axis tilt sensor from Crossbow." alt="" coords="232,304,357,345"/>
+<area shape="rect" id="node2" href="$d6/d96/classnidas_1_1core_1_1SerialSensor.html" title="Support for a sensor that is sending packets on a TCP socket, a UDP socket, a Bluetooth RF Comm socke..." alt="" coords="211,229,379,256"/>
+<area shape="rect" id="node3" href="$de/d43/classnidas_1_1core_1_1CharacterSensor.html" title="Implementation of support for a sensor which generates character output." alt="" coords="199,155,391,181"/>
+<area shape="rect" id="node4" href="$d2/db4/classnidas_1_1core_1_1DSMSensor.html" title="DSMSensor provides the basic support for reading, processing and distributing samples from a sensor a..." alt="" coords="212,80,377,107"/>
+<area shape="rect" id="node5" href="$da/d1f/classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node6" href="$dd/dab/classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples." alt="" coords="209,5,381,32"/>
+<area shape="rect" id="node7" href="$d2/d88/classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method,..." alt="" coords="405,5,555,32"/>
+</map>

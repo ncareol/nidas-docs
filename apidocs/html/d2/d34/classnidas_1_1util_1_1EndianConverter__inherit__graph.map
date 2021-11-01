@@ -1,0 +1,5 @@
+<map id="nidas::util::EndianConverter" name="nidas::util::EndianConverter">
+<area shape="rect" id="node1" title="Virtual base class declaring methods for converting numeric values between little&#45;endian and big&#45;endi..." alt="" coords="95,5,277,32"/>
+<area shape="rect" id="node2" href="$db/d6d/classnidas_1_1util_1_1FlipConverter.html" title="EndianConverter that flips bytes, used for conversion of little&#45;to&#45;big and big&#45;to&#45;little." alt="" coords="5,80,169,107"/>
+<area shape="rect" id="node3" href="$dd/d99/classnidas_1_1util_1_1NoFlipConverter.html" title="EndianConverter that doesn&#39;t flip bytes." alt="" coords="194,80,375,107"/>
+</map>

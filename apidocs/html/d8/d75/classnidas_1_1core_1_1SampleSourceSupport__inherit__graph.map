@@ -1,0 +1,5 @@
+<map id="nidas::core::SampleSourceSupport" name="nidas::core::SampleSourceSupport">
+<area shape="rect" id="node1" title="A source of samples." alt="" coords="5,80,184,121"/>
+<area shape="rect" id="node3" href="$dd/dea/classTestSource.html" title=" " alt="" coords="51,169,139,196"/>
+<area shape="rect" id="node2" href="$da/d1f/classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples." alt="" coords="5,5,184,32"/>
+</map>

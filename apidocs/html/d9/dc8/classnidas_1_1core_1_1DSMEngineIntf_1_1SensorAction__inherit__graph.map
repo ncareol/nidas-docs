@@ -1,0 +1,4 @@
+<map id="nidas::core::DSMEngineIntf::SensorAction" name="nidas::core::DSMEngineIntf::SensorAction">
+<area shape="rect" id="node1" title="Invoke an executeXmlRpc() method on a DSMSensor." alt="" coords="17,80,199,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,211,32"/>
+</map>

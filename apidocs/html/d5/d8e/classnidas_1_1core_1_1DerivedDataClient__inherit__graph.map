@@ -1,0 +1,13 @@
+<map id="nidas::core::DerivedDataClient" name="nidas::core::DerivedDataClient">
+<area shape="rect" id="node1" title="Interface of a DerivedDataClient of the DerivedDataReader." alt="" coords="5,201,171,243"/>
+<area shape="rect" id="node2" href="$d7/d30/classnidas_1_1dynld_1_1raf_1_1AlicatSDI.html" title="Alicat Flow Controller, used for the SDI." alt="" coords="219,5,341,47"/>
+<area shape="rect" id="node3" href="$db/d45/classnidas_1_1dynld_1_1raf_1_1CVIOutput.html" title=" " alt="" coords="219,71,341,112"/>
+<area shape="rect" id="node4" href="$d4/df7/classnidas_1_1dynld_1_1raf_1_1LamsSensor.html" title="Sensor class supporting the NCAR/EOL Laser Air Motion Sensor (LAMS) via a DSM." alt="" coords="219,136,341,177"/>
+<area shape="rect" id="node5" href="$db/d9f/classnidas_1_1dynld_1_1raf_1_1PIP__Serial.html" title="A class for reading DMT PIP/CIP probe histogram data." alt="" coords="219,201,341,243"/>
+<area shape="rect" id="node6" href="$d5/d4b/classnidas_1_1dynld_1_1raf_1_1TwoD__USB.html" title="Base class for PMS 2D particle probes on a USB interface." alt="" coords="219,267,341,308"/>
+<area shape="rect" id="node10" href="$dd/def/classnidas_1_1dynld_1_1raf_1_1VCSEL2__Serial.html" title="VCSEL2 Serial Sensor." alt="" coords="219,332,341,373"/>
+<area shape="rect" id="node11" href="$d3/d42/classnidas_1_1dynld_1_1raf_1_1VCSEL__Serial.html" title="VCSEL Serial Sensor." alt="" coords="219,397,341,439"/>
+<area shape="rect" id="node7" href="$db/dd4/classnidas_1_1dynld_1_1raf_1_1TwoD32__USB.html" title="Sensor class for the standard PMS2D probes where the data signals are converted to USB by a converter..." alt="" coords="389,235,512,276"/>
+<area shape="rect" id="node8" href="$d2/d53/classnidas_1_1dynld_1_1raf_1_1TwoD64__USB.html" title="Class for the USB Fast&#45;2DC." alt="" coords="389,300,512,341"/>
+<area shape="rect" id="node9" href="$da/d29/classnidas_1_1dynld_1_1raf_1_1TwoD64__USB__v3.html" title="Class for the USB Fast&#45;2DC." alt="" coords="560,300,684,341"/>
+</map>

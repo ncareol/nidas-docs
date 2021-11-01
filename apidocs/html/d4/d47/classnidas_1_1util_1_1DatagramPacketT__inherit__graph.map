@@ -1,0 +1,8 @@
+<map id="nidas::util::DatagramPacketT&lt; DataT &gt;" name="nidas::util::DatagramPacketT&lt; DataT &gt;">
+<area shape="rect" id="node1" title="A DatagramPacket with a specific structure of data." alt="" coords="119,81,302,123"/>
+<area shape="rect" id="node3" href="$dd/dd0/classnidas_1_1util_1_1DatagramPacketT.html" title=" " alt="" coords="17,185,199,227"/>
+<area shape="rect" id="node5" href="$dd/dd0/classnidas_1_1util_1_1DatagramPacketT.html" title=" " alt="" coords="227,185,410,227"/>
+<area shape="rect" id="node2" href="$d3/dbe/classnidas_1_1util_1_1DatagramPacketBase.html" title="Abstract base class for a UDP datagram." alt="" coords="105,5,317,32"/>
+<area shape="rect" id="node4" href="$db/df2/classnidas_1_1util_1_1McSocketDatagram.html" title="Datagram that is multicast by a host when it wants a service." alt="" coords="5,276,205,303"/>
+<area shape="rect" id="node6" href="$da/d24/classnidas_1_1util_1_1DatagramPacket.html" title=" " alt="" coords="230,276,413,303"/>
+</map>
